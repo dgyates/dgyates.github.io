@@ -1,0 +1,224 @@
+# Site settings
+title: Sean Donnellan
+twitter_username: donnellan_sean
+name: Sean Donnellan
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+  - title: GitHub
+    url: https://github.com/donnels
+  - title: LinkedIn
+    url: https://de.linkedin.com/in/sean-donnellan-03601b4a
+  - title: Acclaim
+    url: https://www.youracclaim.com/users/sean-donnellan.faa56e53
+  - title: Research and publications
+    url: https://www.researchgate.net/profile/Sean_Donnellan3/research
+    
+  
+ 
+#Any buzzword skills you want to include
+skills:
+ - IT Architect
+ - IT Network Architect
+ - IT Security Architect
+ - IT Infrastructure Architect
+ - Data Center Architecture
+ - security governance
+ - security policy
+ - automated documentation
+ - CISSP
+ - AIX Advanced Technical Expert
+ - Linux
+ - NEO4J
+ - MQTT
+ - IOT
+ - Juniper
+ - Cisco
+ - IBM Cloud
+ - IBM
+ - travis
+ - docker
+ - python
+ - shell scripting
+ - docker compose
+ - openscad
+ - git
+ - UML
+ - CI/CD
+ - Raspberry Pi
+ - ESP8266/ESP32
+ - Arduino
+ - IPv6
+ - IPv4
+ - penetration testing
+ - slack
+ - agile
+ - ansible
+ - bi-lingual
+ - german
+ - english
+ - Cloud Computing
+ - Data Center Architecture
+ - Data Center Relocation
+ - Virtualization
+ - Network Security
+ - Virtual Teams
+ - Data Center
+ - IT Service Management
+ - ITIL
+ - IT Management
+ - Disaster Recovery
+ - Patents
+ - Solution Architecture
+ - Enterprise Architecture
+ - High Availability
+ - Storage Area Networks
+ - VMware 
+ - Firewalls
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: IT infrastructure architect
+   start: 2000
+   end: Ongoing
+   employer: IBM
+   description:  DC cabling and infrastructure renewal and upgrade.
+ - title: System Engineer
+   start: 2000
+   end: 2000
+   employer: Self Employed
+   description: self employed.
+ - title: Senior Engineer
+   start: 1995
+   end: 2000
+   employer: Sysnet/Sysdat GmbH
+   description: Sysdat .
+ - title: Translator
+   start: 1991
+   end: 1995
+   employer: Self employed
+   description: German English and English German translations related to the automotive industry.
+
+#Education is required
+education:
+ - level: Leaving Certificate
+   date: 1990
+   subject: Sutton Park
+   school: Sutton Park School
+
+#This section is optional (as is the image link below)
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
+#    - title: Algorithms Design and Analysis, Part 1
+#      link: https://www.coursera.org/specializations/algorithms
+#     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#      date: April 28, 2014
+
+#test section not yet in templates
+patents:
+ - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - donnels/donnels.github.io
+ - donnels/vacuumpreamp
+
+#test acclaim section
+acclaim:
+   profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
+   badges:
+    - title: na
+      badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
+      issuedBy: na
+    - title: na
+      badgeId: 2db8b10a-be11-48ea-82ae-2a84b441e63a
+      issuedBy: na
+    - title: na
+      badgeId: 804154e3-ecf2-441b-959f-487553975b0a
+      issuedBy: na
+    - title: na
+      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
+      issuedBy: na
+    - title: na
+      badgeId: 093081a4-03a0-414d-ba99-7c760b5d522a
+      issuedBy: na
+    - title: na
+      badgeId: 34ba89a3-4824-41dd-8133-35aea4119714
+      issuedBy: na
+    - title: na
+      badgeId: 24a9a8e3-12ce-4d12-8480-f0536077a033
+      issuedBy: na
+    - title: na
+      badgeId: 0552e76a-e34d-4af3-b8a8-d16486bebad5
+      issuedBy: na
+    - title: na
+      badgeId: 8f0e3f96-07c9-4e46-aca1-d57d5fdecbb2
+      issuedBy: na
+    - title: na
+      badgeId: 45421933-b8d3-47aa-90ef-171cacdfbb9f
+      issuedBy: na
+    - title: na
+      badgeId: ed1628c5-4f68-4e87-8eb7-4faaa67e7be5
+      issuedBy: na
+    - title: na
+      badgeId: 23f12439-9421-499a-8db5-3e77a56916cd
+      issuedBy: na
+    - title: na
+      badgeId: 53a11686-0191-4d6b-97a2-f6f162ae4792
+      issuedBy: na
+    - title: na
+      badgeId: 3407f901-8e09-47c3-afe4-25f6ad5e278f
+      issuedBy: na
+    - title: na
+      badgeId: d49b429f-ac7a-42c7-99e1-8f04ec3c590e
+      issuedBy: na
+    - title: na
+      badgeId: 2379495f-dfcc-4617-802f-3743c161910e
+      issuedBy: na
+    - title: na
+      badgeId: 9641d549-4c8b-4cc6-a585-cfef3ad347a6
+      issuedBy: na
+    - title: na
+      badgeId: d7db0e2a-670a-4ce7-bcda-3b68eacf31b3
+      issuedBy: na
+    - title: na
+      badgeId: 8453e0d3-b9ae-4156-81bd-bb37308266b2
+      issuedBy: na
+    - title: na
+      badgeId: 37215f2d-4209-44fc-ac1f-74d7a3f82b15
+      issuedBy: na
+    - title: na
+      badgeId: 6b987988-3e18-45d3-8349-b1543d197678
+      issuedBy: na
+
+intro: |
+  I am an IT architect with 25+ years experience working in technology. I have primarily worked as an IT infrastructure architect, but have worked across a broad range of technologies thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J. As well as spending a reasonable amount of time building Cloud Infrastructure. <br/><br/>
+  I have worked in large scale data center migration, management, and governance roles across Europe and globally.
+  test.
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+  <strong>Cloud platforms</strong>: I have primarily used IBM/CMS and IBM/Softlayer. I have experience setting up, configuring and running the network intra- and inter-connectivity and security. From underlay, through LAN and WAN, to overlay.<br/><br/>
+  <strong>Data analysis</strong>: Through DC projects, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
+  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. I have experience with an array of testing tools and technologies.<br/><br/>
+  <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
+  <strong>Publications</strong>: <br/>
+  Implementing an IBM System x iDataPlex Solution, 2009, ISBN/ISSN 0738432520<br/>
+  Building an Efficient Data Center with IBM iDataPlex, 2008, REDP-4418-00<br/>
+  Dual Data Center - Shared converged PoD, 2005, IBM ICM AssetWeb<br/><br/>
+  <strong>Patents</strong>: <br/>
+  4 patents - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">view: google patent search (inventor;sean donnellan)</a>
+  <br/><br/>
+   

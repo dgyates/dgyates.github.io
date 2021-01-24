@@ -62,7 +62,6 @@ skills:
  - german
  - english
  - Cloud Computing
- - Data Center Architecture
  - Data Center Relocation
  - Virtualization
  - Network Security
@@ -206,7 +205,6 @@ acclaim:
 intro: |
   I am an IT architect with 25+ years experience working in technology. I have primarily worked as an IT infrastructure architect, but have worked across a broad range of technologies thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J. As well as spending a reasonable amount of time building Cloud Infrastructure. <br/><br/>
   I have worked in large scale data center migration, management, and governance roles across Europe and globally.
-  test.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

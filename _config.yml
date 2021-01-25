@@ -88,7 +88,29 @@ roles:
    start: 2000
    end: Ongoing
    employer: IBM
-   description:  DC cabling and infrastructure renewal and upgrade.
+   description: |
+    10/2000 - To date </br>
+    IBM, Germany </br>
+    IT Architect </br>
+    Achievements- </br>
+     Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks </br>
+      and numerous further patent applications and granted patents,  </br>
+       Author of Redbook and redpiece on iDataPlex, </br>
+       On Demand Data Center Services (ODCS)/ Universal Mgmt. infrastructure (UMI) Dual data center design, </br>
+       Firewall looking glass design, </br>
+       Universal web hosting server farm (USF) firewall mgmt. and improvement, </br>
+       Extranet design, </br>
+       Enterprise data centre firewall placement, </br>
+       Cloud Virtualization Design and security. </br> 
+    Roles- IT Architect  </br>
+    Managers- Reiner Lauster from 15/10/2000 to 28/2/2004 </br>
+    Mark Dietrich from 1/3/2004 to 31/8/2004 </br>
+    Peter John from 1/9/2004 to 31/8/2006 </br>
+    Joerg Hess from 1/9/2006 to 30/6/2007 </br>
+    Peter John from 1/7/2007 to 28/4/2009 </br>
+    Antonio Aliatakis 1/5/2009 to 31/12/2009 </br>
+    Nicola Nicolic 1/1/2010 to 31/1/2010 </br>
+    Gerhard Eikmeier 1/2/2010 and on.
  - title: System Engineer
    start: 2000
    end: 2000
@@ -114,14 +136,19 @@ roles:
    start: 1991
    end: 1995
    employer: Self employed
-   description: German English and English German translations related to the automotive industry.
+   description: |
+    German English and English German translations related to the automotive industry.
 
 #Education is required
 education:
  - level: Leaving Certificate
    date: 1990
    subject: Sutton Park
-   school: Sutton Park School
+   school: |
+    Sutton Park School
+    Howth
+    Dublin
+    Ireland
 
 #This section is optional (as is the image link below)
 #coursera:

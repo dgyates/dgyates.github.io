@@ -93,7 +93,11 @@ roles:
    start: 2000
    end: 2000
    employer: Self Employed
-   description: self employed.
+   description: 04/2000 - 10/2000
+    Self Employed Consultant, Germany
+    Freelance IT Security and Network Consultant
+    Achievements- Diverse customer projects and firewalls.
+    Roles- Consultant.
  - title: Senior Engineer
    start: 1995
    end: 2000
@@ -103,7 +107,7 @@ roles:
     Senior Consultant IT Security
     Achievements- Corporate firewall design.
     Roles- Head of firewall team, Consultant, 3rd level support for- AIX/UNIX, Internet protocol (IP), and Internet related issues.
-    Manager- Michael Brueckner
+    Manager- Michael Brueckner.
  - title: Translator
    start: 1991
    end: 1995

@@ -94,21 +94,21 @@ roles:
    end: 2000
    employer: Self Employed
    description: |
-    04/2000 - 10/2000
-    Self Employed Consultant, Germany
-    Freelance IT Security and Network Consultant
-    Achievements- Diverse customer projects and firewalls.
+    04/2000 - 10/2000 </br>
+    Self Employed Consultant, Germany </br>
+    Freelance IT Security and Network Consultant </br>
+    Achievements- Diverse customer projects and firewalls. </br>
     Roles- Consultant.
  - title: Senior Engineer
    start: 1995
    end: 2000
-   employer: Sysnet/Sysdat GmbH
+   employer: Sysdat GmbH
    description: |
-    02/1995 - 04/2000
-    SYSDAT GmbH, Germany
-    Senior Consultant IT Security
-    Achievements- Corporate firewall design.
-    Roles- Head of firewall team, Consultant, 3rd level support for- AIX/UNIX, Internet protocol (IP), and Internet related issues.
+    02/1995 - 04/2000 </br>
+    SYSDAT GmbH, Germany </br>
+    Senior Consultant IT Security </br>
+    Achievements- Corporate firewall design. </br>
+    Roles- Head of firewall team, Consultant, 3rd level support for- AIX/UNIX, Internet protocol (IP), and Internet related issues. </br>
     Manager- Michael Brueckner.
  - title: Translator
    start: 1991

@@ -96,7 +96,7 @@ roles:
      Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks </br>
       and numerous further patent applications and granted patents,  </br>
        Author of Redbook and redpiece on iDataPlex, </br>
-       On Demand Data Center Services (ODCS)/ Universal Mgmt. infrastructure (UMI) Dual data center design, </br>
+       On Demand Data Center Services (ODCS)- Universal Mgmt. infrastructure (UMI) Dual data center design, </br>
        Firewall looking glass design, </br>
        Universal web hosting server farm (USF) firewall mgmt. and improvement, </br>
        Extranet design, </br>
@@ -144,11 +144,7 @@ education:
  - level: Leaving Certificate
    date: 1990
    subject: Sutton Park
-   school: |
-    Sutton Park School
-    Howth
-    Dublin
-    Ireland
+   school: Sutton Park School </br>Howth </br>Dublin </br>Ireland
 
 #This section is optional (as is the image link below)
 #coursera:

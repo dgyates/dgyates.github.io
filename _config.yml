@@ -17,10 +17,19 @@ primarylinks:
     url: https://www.youracclaim.com/users/sean-donnellan.faa56e53
   - title: Research and publications
     url: https://www.researchgate.net/profile/Sean_Donnellan3/research
-    
-  
- 
-#Any buzzword skills you want to include
+
+# Introduction section
+intro: |
+  I am an IT architect with 25+ years experience working in technology. 
+  I have primarily worked as an IT infrastructure architect, 
+  but have worked across a broad range of technologies 
+  thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J. 
+  As well as spending a reasonable amount of time building Cloud Infrastructure. 
+  <br/><br/>
+  I have worked in large scale data center migration, management, 
+  and governance roles across Europe and globally.
+
+#Buzzword skills
 skills:
  - IT Architect
  - IT Network Architect
@@ -82,7 +91,7 @@ skills:
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
-#Work experience is required
+#Employers and summary Work experience
 roles:
  - title: IT infrastructure architect
    start: 2000
@@ -244,10 +253,6 @@ acclaim:
     - title: na
       badgeId: 6b987988-3e18-45d3-8349-b1543d197678
       issuedBy: na
-
-intro: |
-  I am an IT architect with 25+ years experience working in technology. I have primarily worked as an IT infrastructure architect, but have worked across a broad range of technologies thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J. As well as spending a reasonable amount of time building Cloud Infrastructure. <br/><br/>
-  I have worked in large scale data center migration, management, and governance roles across Europe and globally.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

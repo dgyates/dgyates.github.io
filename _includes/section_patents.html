@@ -1,0 +1,35 @@
+{% if site.patents %}
+	<div id="patentsBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1 id="patents-intro">Patents</h1>
+		</div>
+		<div class="content-rounded-panel">
+			{% for patent in site.patents %}
+					{% assign loopindex = forloop.index | modulo: 2 %}
+					{% if loopindex == 1 %}
+					<div class="row">
+					{% endif %}
+						<div class="col-lg-6">
+							<div id="patentBlurb">
+								<h2>Title</h2>
+									{{patent.title}}
+								<h2>PAtent ID</h2>
+									{{patent.id}}
+								<h2>Link</h2>
+									{{patent.link}}
+								<h2>Abstract</h2>
+									{{patent.abstract}}
+							</div>
+							<br>					
+						</div>
+					{% if loopindex == 0 %}
+					</div>
+					{% endif %}
+				{% endfor %}
+				{% if loopindex == 1 %}
+					</div>
+				{% endif %}
+		
+		</div>
+	</div>
+{% endif %}

@@ -88,9 +88,6 @@ skills:
  - VMware 
  - Firewalls
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
-
 #Employers and summary Work experience
 roles:
  - title: IT infrastructure architect
@@ -177,9 +174,8 @@ education:
 #     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
 #      date: April 28, 2014
 
-#test section not yet in templates
-patents:
- - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -267,7 +263,12 @@ additionalinfo: |
   <strong>Patents</strong>: <br/>
   4 patents - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">view: google patent search (inventor;sean donnellan)</a>
   <br/><br/>
-   
+
+#test section not yet in templates
+patents:
+ - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
+
+#adding to the templates
 projects: |
 <strong>test<strong/> test test <br/>
 test

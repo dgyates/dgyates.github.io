@@ -273,19 +273,16 @@ patents:
     ID: 123456
     Link: <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
     abstract: kljhasdfkjjhasdfkhjasklfhj
-patents:
   - patent:
     title: test2
     ID: 123456
     Link: <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
     abstract: kljhasdfkjjhasdfkhjasklfhj
-patents:
   - patent:
     title: test3
     ID: 123456
     Link: <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
     abstract: kljhasdfkjjhasdfkhjasklfhj
-patents:
   - patent:
     title: test4
     ID: 123456

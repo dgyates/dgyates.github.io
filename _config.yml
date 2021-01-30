@@ -270,13 +270,13 @@ patents:
 
 #adding to the templates
 projects:
-  project:
+  - project:
     period: 1999
     duration: 9 months
     role: test
     description: text goes here
     contributions: other text goes here
-  project:
+  - project:
     period: 2000
     duration: 9 months
     role: test

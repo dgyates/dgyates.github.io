@@ -269,7 +269,9 @@ patents:
  - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
 
 #adding to the templates
-projects: |
-  test
-  test
-  123
+projects:
+  period: 1999
+  duration: 9 months
+  role: test
+  description: text goes here
+  contributions: other text goes here

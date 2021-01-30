@@ -6,7 +6,7 @@ name: Sean Donnellan
 # Build settings
 markdown: kramdown
 #comment out this line when ready (no longer draft)
-status: Draft
+status: --- Draft ---
 
 #User specific content
 #Links that will appear in the navbar

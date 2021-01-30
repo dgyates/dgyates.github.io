@@ -269,7 +269,7 @@ patents:
  - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
 
 #adding to the templates
-projectsHist: |
+projectsHist:
 <strong>test<strong/> test test <br/>
 test
 <br/> <br/>

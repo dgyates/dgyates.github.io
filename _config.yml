@@ -306,7 +306,7 @@ patents:
  
 #adding to the templates
 projects:
-  - project:
+  - templateproject:
     period: 2000
     duration: 9 months
     clientType: big something company

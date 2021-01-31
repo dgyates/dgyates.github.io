@@ -287,8 +287,7 @@ acclaim:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
-  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. I have experience with an array of testing tools and technologies.<br/><br/>
-  <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
+    <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
   <strong>Diploma thesis supervisor</strong>: <br/>
   Supervised two Bsc. diploma thesis: <br/>
     4Q 2004 - Logfile Analysis, <br/>
@@ -306,6 +305,11 @@ additionalinformation:
       In the last few zears I have built an extensive set of tools including graph databses and visulaization tools. 
       Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
       Including Airflow checking and automated interfaces to vendor DBs.
+  - title: Development Control 
+    text: |
+      I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
+      I have experience with an array of testing tools and CI/CD technologies and methods.
+
 
 #patents
 patents:

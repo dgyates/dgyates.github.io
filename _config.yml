@@ -46,9 +46,10 @@ intro: |
 
 #Buzzword Languages
 languages:
- - English Fluent
- - German Fluent
- 
+  - Bilingual
+  - English
+  - German
+
 #Buzzword skills
 skills:
  - IT Architect
@@ -87,9 +88,6 @@ skills:
  - slack
  - agile
  - ansible
- - bi-lingual
- - german
- - english
  - Cloud Computing
  - Data Center Relocation
  - Virtualization

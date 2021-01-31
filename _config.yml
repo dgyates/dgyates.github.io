@@ -287,9 +287,9 @@ acclaim:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
-    <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
-  <strong>Diploma thesis supervisor</strong>: <br/>
-  Supervised two Bsc. diploma thesis: <br/>
+  <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
+  <strong>Diploma thesis supervisor</strong> <br/>
+  Supervised two Bsc. diploma thesis- <br/>
     4Q 2004 - Logfile Analysis, <br/>
     1Q 2002 - Network Intrusion Detection System.
 

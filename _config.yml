@@ -318,3 +318,20 @@ projects:
     role: test
     description: text goes here
     contributions: other text goes here
+  - project:
+    period: 04/1997 - 12/1997
+    duration: 9 months
+    clientType: Large Bank
+    codeName: GroGa
+    role: System Engineer
+    description: |
+      Move 200+ stock trader workstations and the complete stock trader data center to a new location. 
+      Move was in parallel with live operations.
+    contributions: |
+      Created remote AIX installation scripts to perform activities including root disk mirroring, 
+      monitoring of HACMP and Highly Available Network File Systems (HANFS) disk partition integrity, 
+      automation testing,
+      HA testing,  
+      and application testing.
+      I wrote a web based problem ticket system for the team (>30 people).
+      Assisted in the development of the configuration Graphical User Interface (GUI) and software which was used to remotely install servers and workstations.

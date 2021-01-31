@@ -373,6 +373,31 @@ projects:
     description: Updating this CV right now if you see this.
     contributions: Author, web design, Github integration of CV.
   - project:
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: Multinational Industrial
+    codename: Nexagent Evaluation
+    description: |
+      Evaluate security and network design of Nexagent carrier peering technology.
+    role: IT Architect
+    contributions: | 
+      Planned tests for Nexagent integration, <br/>
+      Evaluated Nexagent design papers, <br/>
+      Inspected Nexagent demonstration laboratory, <br/>
+      Provided guidance to C level mamangement.
+  - project:
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: Multinational Industrial
+    codename: Firewall Management Design
+    description: |
+      Redesign the Customers Firewall Management system.
+    role: IT Architect
+    contributions: |
+      Provided initial design, <br/>
+      Documented firewall management design, <br/>
+      Was direct link to the customer.
+  - project:
     period: 01/2003 - 05/2003
     duration: 5 months
     clientTypz: Large Bank

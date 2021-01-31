@@ -316,7 +316,7 @@ projects:
     contributions: other text goes here
   - project:
     period: 02/2001 - 04/2001
-    durations: 3 months
+    duration: 3 months
     clientType: GSM TELCOs
     codename: GPRS Roaming Backbone
     description: |

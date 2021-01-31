@@ -3,6 +3,12 @@ A Jekyll based CV page
 
 Template based on this repo here: https://robhinds.github.io
 
+- added acclaim section and badge query
+- added patents and publications sections
+- added additional information structured section in addition to freetext section
+- added optional status section to beginning to denote draft and status while updating
+- added work exprience section  for detailed project descriptions  
+
 ## Making the CV
 
 To make the GitHub hosted CV:

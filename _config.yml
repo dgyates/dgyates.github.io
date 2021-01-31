@@ -319,6 +319,19 @@ projects:
     description: text goes here
     contributions: other text goes here
   - project:
+    period: 12/1997 - 04/2000
+    duration: 29 months
+    clientType: Consulting
+    codeName: Firewall Dept.
+    role: Senior Systems Engineer
+    description: |
+      Create firewall selling and design capabilities within the company. 
+      Provide security expertise to customers. 
+      Improve the companies own internal network security and provide secure access to the Internet and partners.
+    contributions: |
+      Created the Firewall dept.\line Designed and built the company Internet and Extranet connectivity.\line Designed the company Intranet proxy systems.\line Provided customers with security expertise.\line Designed and built numerous, multi tier, corporate firewall systems for banks, retail industry, manufacturing industry, and utility companies (based on Cisco, IBM, and Microsoft products).\line Designed companies Extranet connectivity.\line Designed anti virus solutions and so on.
+
+  - project:
     period: 04/1997 - 12/1997
     duration: 9 months
     clientType: Large Bank
@@ -328,10 +341,10 @@ projects:
       Move 200+ stock trader workstations and the complete stock trader data center to a new location. 
       Move was in parallel with live operations.
     contributions: |
-      Created remote AIX installation scripts to perform activities including root disk mirroring, 
+      Created automated remote AIX installation scripts to perform activities including root disk mirroring, 
       monitoring of HACMP and Highly Available Network File Systems (HANFS) disk partition integrity, 
       automation testing,
       HA testing,  
       and application testing.
       I wrote a web based problem ticket system for the team (>30 people).
-      Assisted in the development of the configuration Graphical User Interface (GUI) and software which was used to remotely install servers and workstations.
+      Assisted in the development of the configuration Graphical User Interface (CMDB) and software which was used to provision servers and workstations.

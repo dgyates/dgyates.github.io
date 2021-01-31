@@ -309,9 +309,34 @@ projects:
   - project:
     period: 2000
     duration: 9 months
+    clientType: big something company
+    codename: nina simone
     role: test
     description: text goes here
     contributions: other text goes here
+  - project:
+    period: 10/2000 - 12/2002
+    duration: 27 months
+    clientType: Web Hosting Company
+    codename: IBM e-business Hosting Services
+    role: IT Architect
+    description: | 
+      E-business Hosting Services is an IBM web hosting business unit. 
+      The project encompassed the ongoing support and build phases of the hosting centres in Germany.
+    Contributions: | 
+      "IT Architect: 
+        Evaluate and integrate new techologies,
+        Assist infrastructure support activities,
+        Work with support team 
+        (Tivoli, network and security specialists), 
+        Support network build of new DC hosting facility, 
+        Design and implement monitoring solution, 
+        Support network security team. 
+      Tools used in the USF: 
+        Tivoli systems management environments, 
+        Netview, 
+        Xylan and Cisco switches, 
+        AIX and NOKIA based CheckPoint FireWall-1 systems."
   - project:
     period: 08/1998 - 12/1998
     duration: 5 months

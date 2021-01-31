@@ -315,6 +315,21 @@ projects:
     description: text goes here
     contributions: other text goes here
   - project:
+    period: 09/2001 - 03/2002
+    duration: 7 months
+    clientType: Development Laboratory
+    codename: Linux on 390 (Mainframe) Test
+    description: |
+      Test implementations of Linux on IBM 390 architectures, 
+      Automate testing tasks, 
+      Provide assistance to linux developers.
+    role: System Engineer
+    contributions: |
+      Tested Linux on 390 systems in Virtual Machine (zVM) environments, 
+      Provided driver stability feedback, 
+      Automated Linux installation and provisioning, 
+      Worked with Linux developers.
+  - project:
     period: 03/2001 - 11/2001
     duration: 9 months
     clientType: Web Hosting Company

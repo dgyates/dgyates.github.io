@@ -11,15 +11,16 @@ status:
   overall: --- Draft ---
   sections: 
     - navbar - Done
-    - Intro - Early Draft
+    - languages - done
     - Buzzwords - Done
     - Patents - Done
-    - Publications - AWOL
-    - Badges - Requires formating, contents done
-    - Employer history - Done, requires content review
-    - GitHub - Skeleton done, need to add more github content from local systems
-    - Projects - Skeleton done, contents AWOL
-    - additional information - skeleton done, content mostly AWOL
+    - Publications - done
+    - Intro - Draft 80%
+    - Badges - Requires formating 98%
+    - Employer history - requires content review 66%
+    - GitHub - need to add more github content from local systems
+    - Projects - Skeleton done, contents 25%
+    - additional information - content max 50%
 
 #User specific content
 #Links that will appear in the navbar

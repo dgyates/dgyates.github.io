@@ -306,11 +306,24 @@ patents:
  
 publications:
   - publication:
-    title: Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 
-    ID: US8429651B2
-    link: https://patents.google.com/patent/US8429651B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
+    title: Implementing an IBM System x iDataPlex Solution
+    ID: IBM Technical Support Organization, 2009, ISBN/ISSN 0738432520
     abstract: |
-      A virtual machine is migrated between a source cloud and a destination cloud. A temporary storage is mounted to a partition management firmware of the source cloud and to a partition management firmware of the destination cloud. A first storage location migration migrates the virtual machine from the source cloud to the at least one temporary storage. A second storage location migration migrates the virtual machine from the at least one temporary storage to final destination storage of the destination cloud. The temporary storage is then unmounted from the partition management firmware of the source cloud and from the partition management firmware of the destination cloud.
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.</br>
+      in: IBM Redbooks > Infrastructure Solutions.
+  - publication:
+    title: Building an Efficient Data Center with IBM iDataPlex
+    ID: IBM Technical Support Organization, 2008, REDP-4418-00
+    abstract: |
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. </br>  
+      in: IBM Redbooks > Infrastructure Solutions
+  - publication:
+    title: Dual Data Center - Shared converged PoD
+    ID: IBM, 2005, Internal IBM ICM AssetWeb - e-business Infrastructure & Solutions
+    abstract: |
+      Sean Donnellan</br>
+      Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. </br>
+      Would be called cloud today.
 
 #adding to the templates
 projects:

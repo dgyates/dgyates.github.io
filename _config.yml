@@ -323,7 +323,7 @@ projects:
       Test implementations of Linux on IBM 390 architectures, 
       Automate testing tasks, 
       Provide assistance to linux developers.
-    role: System Engineer
+    role: IT Architect, System Engineer
     contributions: |
       Tested Linux on 390 systems in Virtual Machine (zVM) environments, 
       Provided driver stability feedback, 

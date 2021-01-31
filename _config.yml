@@ -15,12 +15,12 @@ status:
     - Buzzwords - Done
     - Patents - Done
     - Publications - done
-    - Intro - Draft 80%
+    - Intro - Draft 90%
     - Badges - Requires formating 98%
     - Employer history - requires content review 66%
     - GitHub - need to add more github content from local systems
     - Projects - Skeleton done, contents 25%
-    - additional information - content max 50%
+    - additional information - content max 60%
 
 #User specific content
 #Links that will appear in the navbar
@@ -291,13 +291,13 @@ additionalinformation:
     text: |
       I have primarily used IBM/CMS and IBM/Softlayer. 
       I have experience setting up, configuring and running the network intra- and inter-connectivity and security. 
-      From underlay, through LAN and WAN, to overlay.<br/>
+      From underlay, through LAN and WAN, to overlay.
   - title: Data analysis
     text: |
       Through experience with multiple DC builds, relocations, merges, out and in-sourcing, and closures, I have learned the importance of having good data. 
-      In the last few zears I have built an extensive set of tools including graph databses and visulaization tools. 
+      In the last few years I have built an extensive set of tools including graph databses and visulaization tools. 
       Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
-      Including Airflow checking and automated interfaces to vendor DBs.<br/>
+      Including Airflow checking and automated interfaces to vendor DBs.
   - title: Development Control 
     text: |
       I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
@@ -372,6 +372,16 @@ projects:
     role: test
     description: text goes here
     contributions: other text goes here
+  - project:
+    period: 01/2003 - 05/2003
+    duration: 5 months
+    clientTypz: Large Bank
+    codename: Symphony
+    description: |
+      Answer Request for Proposal (RFP) from customer.
+    role: IT Security Architect, TSM 
+    contributions: |
+      Provided firewall and Intrusion Detection System (IDS) architecture to proposal.
   - project:
     period: 01/2003 - 06/2003
     duration: 6 months

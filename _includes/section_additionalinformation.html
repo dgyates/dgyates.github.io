@@ -1,0 +1,15 @@
+{% if site.additionalinformation %}
+	<div id="additionalinformationBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1 id="additionalinformation-intro">Additional Information</h1>
+		</div>
+		<div class="content-rounded-panel">
+			{% for info in site.additionalinformation %}
+				<div id="infoBlurb">
+					<strong>{{info.title}}: </strong>{{info.text}}
+				</div>
+				</br>					
+			{% endfor %}
+		</div>
+	</div>
+{% endif %}

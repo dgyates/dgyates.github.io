@@ -11,15 +11,16 @@ status:
   overall: --- Draft ---
   sections: 
     - navbar - Done
-    - Intro - Early Draft
+    - languages - done
     - Buzzwords - Done
     - Patents - Done
-    - Publications - AWOL
-    - Badges - Requires formating, contents done
-    - Employer history - Done, requires content review
-    - GitHub - Skeleton done, need to add more github content from local systems
-    - Projects - Skeleton done, contents AWOL
-    - additional information - skeleton done, content mostly AWOL
+    - Publications - done
+    - Intro - Draft 90%
+    - Badges - Requires formating 98%
+    - Employer history - requires content review 66%
+    - GitHub - need to add more github content from local systems
+    - Projects - Skeleton done, contents 25%
+    - additional information - content max 60%
 
 #User specific content
 #Links that will appear in the navbar
@@ -39,10 +40,32 @@ intro: |
   I have primarily worked as an IT infrastructure architect, 
   but have worked across a broad range of technologies 
   thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J. 
-  As well as spending a reasonable amount of time building Cloud Infrastructure. 
+  As well as spending a reasonable amount of time building Cloud Network Infrastructure. 
   <br/><br/>
   I have worked in large scale data center migration, management, 
   and governance roles across Europe and globally.
+  <br/><br/>
+  I have worked in the IT industry since 1995. 
+  I started as a specialist for UNIX and networking. 
+  I quickly moved on to parallel computing and enterprise firewall design as an architect and consultant. 
+  Initially working for an IBM business partner I was involved in both large and small projects across a wide spectrum. 
+  Activities included planning and providing training to customers, architecture, consulting, delivery of architectures, automation, team lead, and last level support for more complex problems. 
+  Notable achievements are over 5 Extranet firewalls for large corporations and SMB.
+  <br/><br/>
+  In 2000 I left the business partner to start up my own consulting company. 
+  During which time I developed and internally used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
+  Other achievments during this time are customer aquisition and numerous small projects such as highly available DHCP infrastructures or Intranet firewalls.
+  <br/><br/>
+  In late 2000 I was hired by IBM as an IT architect. 
+  I have been involved in data centre design, network design, security design, Virtualization design, and systems management. 
+  Amongst other things I have worked with international teams to further Linux on z, data centre design, firewall design, virtualization, and IDS design. 
+  I have lead teams, managed projects and supervised implementations across a wide range of projects and technical platforms as well as taking the occasional deep dive into topics like penetration testing or data analysis.
+ 
+#Buzzword Languages
+languages:
+  - Bilingual
+  - English
+  - German
 
 #Buzzword skills
 skills:
@@ -61,11 +84,16 @@ skills:
  - MQTT
  - IOT
  - Juniper
+ - Jupyter
  - Cisco
  - IBM Cloud
  - IBM
  - travis
  - docker
+ - Mentor
+ - Teacher
+ - Project management
+ - Team lead
  - python
  - shell scripting
  - docker compose
@@ -82,10 +110,8 @@ skills:
  - slack
  - agile
  - ansible
- - bi-lingual
- - german
- - english
  - Cloud Computing
+ - Risk Management
  - Data Center Relocation
  - Virtualization
  - Network Security
@@ -102,6 +128,8 @@ skills:
  - Storage Area Networks
  - VMware 
  - Firewalls
+ - 3D printing (FDM)
+ - Laser cutting
 
 #Employers and summary Work experience
 roles:
@@ -110,57 +138,57 @@ roles:
    end: Ongoing
    employer: IBM
    description: |
-    10/2000 - To date </br>
-    IBM, Germany </br>
-    IT Architect </br>
-    Achievements- </br>
-     Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks </br>
-      and numerous further patent applications and granted patents,  </br>
-       Author of Redbook and redpiece on iDataPlex, </br>
-       On Demand Data Center Services (ODCS)- Universal Mgmt. infrastructure (UMI) Dual data center design, </br>
-       Firewall looking glass design, </br>
-       Universal web hosting server farm (USF) firewall mgmt. and improvement, </br>
-       Extranet design, </br>
-       Enterprise data centre firewall placement, </br>
-       Cloud Virtualization Design and security. </br> 
-    Roles- IT Architect  </br>
-    Managers- Reiner Lauster from 15/10/2000 to 28/2/2004 </br>
-    Mark Dietrich from 1/3/2004 to 31/8/2004 </br>
-    Peter John from 1/9/2004 to 31/8/2006 </br>
-    Joerg Hess from 1/9/2006 to 30/6/2007 </br>
-    Peter John from 1/7/2007 to 28/4/2009 </br>
-    Antonio Aliatakis 1/5/2009 to 31/12/2009 </br>
-    Nicola Nicolic 1/1/2010 to 31/1/2010 </br>
+    10/2000 - To date <br/>
+    IBM, Germany <br/>
+    IT Architect <br/>
+    Achievements- <br/>
+     Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks <br/>
+      and numerous further patent applications and granted patents,  <br/>
+       Author of Redbook and redpiece on iDataPlex, <br/>
+       On Demand Data Center Services (ODCS)- Universal Mgmt. infrastructure (UMI) Dual data center design, <br/>
+       Firewall looking glass design, <br/>
+       Universal web hosting server farm (USF) firewall mgmt. and improvement, <br/>
+       Extranet design, <br/>
+       Enterprise data centre firewall placement, <br/>
+       Cloud Virtualization Design and security. <br/> 
+    Roles- IT Architect  <br/>
+    Managers- Reiner Lauster from 15/10/2000 to 28/2/2004 <br/>
+    Mark Dietrich from 1/3/2004 to 31/8/2004 <br/>
+    Peter John from 1/9/2004 to 31/8/2006 <br/>
+    Joerg Hess from 1/9/2006 to 30/6/2007 <br/>
+    Peter John from 1/7/2007 to 28/4/2009 <br/>
+    Antonio Aliatakis 1/5/2009 to 31/12/2009 <br/>
+    Nicola Nicolic 1/1/2010 to 31/1/2010 <br/>
     Gerhard Eikmeier 1/2/2010 and on.
  - title: System Engineer
    start: 2000
    end: 2000
    employer: Self Employed
    description: |
-    04/2000 - 10/2000 </br>
-    Self Employed Consultant, Germany </br>
-    Freelance IT Security and Network Consultant </br>
-    Achievements- Diverse customer projects and firewalls. </br>
+    04/2000 - 10/2000 <br/>
+    Self Employed Consultant, Germany <br/>
+    Freelance IT Security and Network Consultant <br/>
+    Achievements- Diverse customer projects and firewalls. <br/>
     Roles- Consultant.
  - title: Senior Engineer
    start: 1995
    end: 2000
    employer: Sysdat GmbH
    description: |
-    02/1995 - 04/2000 </br>
-    SYSDAT GmbH, Germany </br>
-    Senior Consultant IT Security </br>
-    Achievements- </br>
-     Corporate firewall design, </br>
-     Unix Automation,  </br>
-     High Availability, </br>
-     Creation of Firewall Dept. </br>
-    Roles- </br>
-     Head of firewall team, </br>
-      Consultant, </br>
-      3rd level support for- AIX/UNIX, </br>
-      Internet protocol (IP), </br>
-      and Internet related issues. </br>
+    02/1995 - 04/2000 <br/>
+    SYSDAT GmbH, Germany <br/>
+    Senior Consultant IT Security <br/>
+    Achievements- <br/>
+     Corporate firewall design, <br/>
+     Unix Automation,  <br/>
+     High Availability, <br/>
+     Creation of Firewall Dept. <br/>
+    Roles- <br/>
+     Head of firewall team, <br/>
+      Consultant, <br/>
+      3rd level support for- AIX/UNIX, <br/>
+      Internet protocol (IP), <br/>
+      and Internet related issues. <br/>
     Manager- Michael Brueckner.
  - title: Translator
    start: 1991
@@ -265,18 +293,33 @@ acclaim:
       badgeId: 6b987988-3e18-45d3-8349-b1543d197678
       issuedBy: na
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-  <strong>Cloud platforms</strong>: I have primarily used IBM/CMS and IBM/Softlayer. I have experience setting up, configuring and running the network intra- and inter-connectivity and security. From underlay, through LAN and WAN, to overlay.<br/><br/>
-  <strong>Data analysis</strong>: Through DC projects, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. I have experience with an array of testing tools and technologies.<br/><br/>
-  <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
-  <strong>Publications</strong>: <br/>
-  Implementing an IBM System x iDataPlex Solution, 2009, ISBN/ISSN 0738432520<br/>
-  Building an Efficient Data Center with IBM iDataPlex, 2008, REDP-4418-00<br/>
-  Dual Data Center - Shared converged PoD, 2005, IBM ICM AssetWeb<br/><br/>
+#new additional info section with headers
+additionalinformation:
+  - title: Cloud platforms
+    text: |
+      I have primarily used IBM/CMS and IBM/Softlayer. 
+      I have experience setting up, configuring and running the network intra- and inter-connectivity and security. 
+      From underlay, through LAN and WAN, to overlay.
+  - title: Data analysis
+    text: |
+      Through experience with multiple DC builds, relocations, merges, out and in-sourcing, and closures, I have learned the importance of having good data. 
+      In the last few years I have built an extensive set of tools including graph databses and visulaization tools. 
+      Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
+      Including Airflow checking and automated interfaces to vendor DBs.
+  - title: Development Control 
+    text: |
+      I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
+      I have experience with an array of testing tools and CI/CD technologies and methods.
+  - title: Internet Of Things (IOT)
+    text: |
+      I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, KNX/EIB, LORAWAN, ISM Band communications, and many other related topics.
+  - title: Diploma thesis supervisor
+    text: |
+      Supervised two Bsc. diploma thesis <br/>
+      4Q 2004 - Logfile Analysis, <br/>
+      1Q 2002 - Network Intrusion Detection System.
 
-#test section not yet in templates
+#patents
 patents:
   - patent:
     title: Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 
@@ -301,17 +344,195 @@ patents:
     link: https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
     abstract:  To provide a secure customer domain in a virtualized multi-tenant environment, a virtual machine (VM) is configured in a customer domain. A first, a second, and a third network interface (VNICs) are configured in the VM. The first VNIC has a first network address in a first address range for a customer domain and allows an application in the VM to access a second application in a second VM in the customer domain. The second VNIC allows a third application outside the customer domain to access the VM in the customer domain. The second VNIC is configured to utilize an address specification used by the server and the third application. The third VNIC allows access from the first application to a fourth application running outside the customer domain. The third VNIC is configured to use an address specification used by the server of the fourth application. 
  
+publications:
+  - publication:
+    title: Implementing an IBM System x iDataPlex Solution
+    ID: IBM Technical Support Organization, 2009, ISBN/ISSN 0738432520
+    link: https://www-2000.ibm.com/partnerworld/ap/kr/redbook_6.pdf
+    abstract: |
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.<br/>
+      in: IBM Redbooks > Infrastructure Solutions.
+      Describes scale out server deployments for both traditional and new deployment modes. 
+      Includes designs of alternative cooling methods, and 40 foot container deployments etc.
+  - publication:
+    title: Building an Efficient Data Center with IBM iDataPlex
+    ID: IBM Technical Support Organization, 2008, REDP-4418-00
+    link: https://lenovopress.com/redp4418
+    abstract: |
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. <br/>  
+      in: IBM Redbooks > Infrastructure Solutions
+      Describes scale out server deployments for both traditional and new deployment modes. 
+  - publication:
+    title: Dual Data Center - Shared converged PoD
+    ID: IBM, 2005, Internal IBM ICM AssetWeb - e-business Infrastructure & Solutions
+    abstract: |
+      Sean Donnellan<br/>
+      Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. <br/>
+      Would be called cloud today.
+
 #adding to the templates
 projects:
   - project:
-    period: 1999
-    duration: 9 months
-    role: test
-    description: text goes here
-    contributions: other text goes here
+    period: 2021
+    duration: 0 months
+    clientType: CV writing
+    codename: nina simone
+    role: Owner
+    description: Updating this CV right now if you see this.
+    contributions: Author, web design, Github integration of CV.
   - project:
-    period: 2000
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: Multinational Industrial
+    codename: Nexagent Evaluation
+    description: |
+      Evaluate security and network design of Nexagent carrier peering technology.
+    role: IT Architect
+    contributions: | 
+      Planned tests for Nexagent integration, <br/>
+      Evaluated Nexagent design papers, <br/>
+      Inspected Nexagent demonstration laboratory, <br/>
+      Provided guidance to C level mamangement.
+  - project:
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: Multinational Industrial
+    codename: Firewall Management Design
+    description: |
+      Redesign the Customers Firewall Management system.
+    role: IT Architect
+    contributions: |
+      Provided initial design, <br/>
+      Documented firewall management design, <br/>
+      Was direct link to the customer.
+  - project:
+    period: 01/2003 - 05/2003
+    duration: 5 months
+    clientTypz: Large Bank
+    codename: Symphony
+    description: |
+      Answer Request for Proposal (RFP) from customer.
+    role: IT Security Architect, TSM 
+    contributions: |
+      Provided firewall and Intrusion Detection System (IDS) architecture to proposal.
+  - project:
+    period: 01/2003 - 06/2003
+    duration: 6 months
+    clientType: Large Insurance Company
+    codename: Privacy Firewall
+    description: | 
+      Evaluate the concept of a filter system for customer data sent across IBM 3270 (mainframe) connexions.
+    role: IT Security Architect 
+    contributions: |
+      Provided advice during prototype development, <br/>
+      Developed test scenario for evaluation, <br/>
+      Supervised initial tests, <br/>
+      Counselled Project Manager and lead IT Architect.
+  - project:
+    period: 09/2001 - 03/2002
+    duration: 7 months
+    clientType: Development Laboratory
+    codename: Linux on 390 (Mainframe) Test
+    description: |
+      Test implementations of Linux on IBM 390 architectures, 
+      Automate testing tasks, 
+      Provide assistance to linux developers.
+    role: IT Architect, System Engineer
+    contributions: |
+      Tested Linux on 390 systems in Virtual Machine (zVM) environments, 
+      Found most bugs during initial automation testing,
+      Provided driver stability feedback, 
+      Automated Linux installation and provisioning, 
+      Worked with Linux developers.
+  - project:
+    period: 03/2001 - 11/2001
     duration: 9 months
-    role: test
-    description: text goes here
-    contributions: other text goes here
+    clientType: Web Hosting Company
+    codename: IDS Probe
+    description: |
+      Design and implement a Network Intrusion Detection System (IDS) probe for the Universal Web Hosting Server Farm (USF V3) in Frankfurt.
+    role: Project Manager, IT Architect
+    contributions: 
+      Provided initial design for probe placement, 
+      Directed development of (SNORT based) self installing Linux IDS probe, 
+      Designed test environment for IDS probe, 
+      Provided hardening for IDS probe, 
+      Directed packaging of IDS probe software, 
+      Directed installation of IDS probe in Frankfurt, 
+      Trained operations team, 
+      Collaborated with international team to integrate solution.
+  - project:
+    period: 02/2001 - 04/2001
+    duration: 3 months
+    clientType: GSM TELCOs
+    codename: GPRS Roaming Backbone
+    description: |
+      Provide a General Packet Radio Service (GPRS) roaming back bone and application hosting facilities for GPRS Global System for Mobile Communications (GSM) telecommunication companies.
+    role: IT Architect Network and Security
+    contributions: |
+      Initial network design work, 
+      Initial project estimations.
+  - project:
+    period: 10/2000 - 12/2002
+    duration: 27 months
+    clientType: Web Hosting Company
+    codename: IBM e-business Hosting Services
+    role: IT Architect
+    description: | 
+      E-business Hosting Services is an IBM web hosting business unit. 
+      The project encompassed the ongoing support and build phases of the hosting centres in Germany.
+    contributions: | 
+      IT Architect - 
+        Evaluate and integrate new techologies,
+        Assist infrastructure support activities,
+        Work with support team 
+        (Tivoli, network and security specialists), 
+        Support network build of new DC hosting facility, 
+        Design and implement monitoring solution, 
+        Support network security team. 
+      Tools used in the USF - 
+        Tivoli systems management environments, 
+        Netview, 
+        Xylan and Cisco switches, 
+        AIX and NOKIA based CheckPoint FireWall-1 systems.
+  - project:
+    period: 08/1998 - 12/1998
+    duration: 5 months
+    role: Senior systems Engineer
+    clientType: Multinational Cement Manufacturer
+    codename: Cement
+    description: |
+      Improve the performance of the AIX based IT including IBM SP2, SSA disk systems, HACMP clusters, DB2 and SAP applications.
+    contributions: | 
+      I analysed all the production and test HACMP clusters, the ATM network connexions, the SSA Disk subsystems, and the overall AIX based sever environment. 
+      I improved the stability of production clusters, SSA disk subsystems and standalone servers through automation of routine tasks and recognition of pre-failure indications. 
+      The network connexions and routing was also modified to improve the bandwidth available to the SAP systems.
+  - project:
+    period: 12/1997 - 04/2000
+    duration: 29 months
+    clientType: Consulting
+    codeName: Firewall Dept.
+    role: Senior Systems Engineer
+    description: |
+      Create firewall selling and design capabilities within the company. 
+      Provide security expertise to customers. 
+      Improve the companies own internal network security and provide secure access to the Internet and partners.
+    contributions: |
+      Created the Firewall dept.<br/> Designed and built the company Internet and Extranet connectivity.<br/> Designed the company Intranet proxy systems.<br/> Provided customers with security expertise.<br/> Designed and built numerous, multi tier, corporate firewall systems for banks, retail industry, manufacturing industry, and utility companies (based on Cisco, IBM, and Microsoft products).<br/> Designed companies Extranet connectivity.<br/> Designed anti virus solutions and so on.
+  - project:
+    period: 04/1997 - 12/1997
+    duration: 9 months
+    clientType: Large Bank
+    codeName: GroGa
+    role: System Engineer
+    description: |
+      Move 200+ stock trader workstations and the complete stock trader data center to a new location. 
+      Move was in parallel with live operations.
+    contributions: |
+      Created automated remote AIX installation scripts to perform activities including root disk mirroring, 
+      monitoring of HACMP and Highly Available Network File Systems (HANFS) disk partition integrity, 
+      automation testing,
+      HA testing,  
+      and application testing.
+      I wrote a web based problem ticket system for the team (>30 people).
+      Assisted in the development of the configuration Graphical User Interface (CMDB) and software which was used to provision servers and workstations.

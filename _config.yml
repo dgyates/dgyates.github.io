@@ -326,6 +326,7 @@ projects:
     role: IT Architect, System Engineer
     contributions: |
       Tested Linux on 390 systems in Virtual Machine (zVM) environments, 
+      Found most bugs during initial automation testing,
       Provided driver stability feedback, 
       Automated Linux installation and provisioning, 
       Worked with Linux developers.

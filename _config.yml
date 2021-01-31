@@ -311,12 +311,15 @@ publications:
     abstract: |
       David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.</br>
       in: IBM Redbooks > Infrastructure Solutions.
+      Describes scale out server deployments for both traditional and new deployment modes. 
+      Includes designs of alternative cooling methods, and 40 foot container deployments etc.
   - publication:
     title: Building an Efficient Data Center with IBM iDataPlex
     ID: IBM Technical Support Organization, 2008, REDP-4418-00
     abstract: |
       David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. </br>  
       in: IBM Redbooks > Infrastructure Solutions
+      Describes scale out server deployments for both traditional and new deployment modes. 
   - publication:
     title: Dual Data Center - Shared converged PoD
     ID: IBM, 2005, Internal IBM ICM AssetWeb - e-business Infrastructure & Solutions

@@ -293,23 +293,23 @@ additionalinfo: |
     4Q 2004 - Logfile Analysis, <br/>
     1Q 2002 - Network Intrusion Detection System.
 
+#new additional info section with headers
 additionalinformation:
   - title: Cloud platforms
     text: |
       I have primarily used IBM/CMS and IBM/Softlayer. 
       I have experience setting up, configuring and running the network intra- and inter-connectivity and security. 
-      From underlay, through LAN and WAN, to overlay.
+      From underlay, through LAN and WAN, to overlay.<br/>
   - title: Data analysis
     text: |
       Through experience with multiple DC builds, relocations, merges, out and in-sourcing, and closures, I have learned the importance of having good data. 
       In the last few zears I have built an extensive set of tools including graph databses and visulaization tools. 
       Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
-      Including Airflow checking and automated interfaces to vendor DBs.
+      Including Airflow checking and automated interfaces to vendor DBs.<br/>
   - title: Development Control 
     text: |
       I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
       I have experience with an array of testing tools and CI/CD technologies and methods.
-
 
 #patents
 patents:

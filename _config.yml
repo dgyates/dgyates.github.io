@@ -314,9 +314,10 @@ projects:
     contributions: other text goes here
   - project:
     period: 08/1998 - 12/1998
-    Duration: 5 months
+    duration: 5 months
+    role: Senior systems Engineer
     clientType: Multinational Cement Manufacturer
-    codename: n/a
+    codename: Cement
     description: |
       Improve the performance of the AIX based IT including IBM SP2, SSA disk systems, HACMP clusters, DB2 and SAP applications.
     contributions: | 

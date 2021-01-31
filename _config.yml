@@ -323,7 +323,7 @@ projects:
     description: | 
       E-business Hosting Services is an IBM web hosting business unit. 
       The project encompassed the ongoing support and build phases of the hosting centres in Germany.
-    Contributions: | 
+    contributions: | 
       "IT Architect: 
         Evaluate and integrate new techologies,
         Assist infrastructure support activities,

@@ -315,6 +315,23 @@ projects:
     description: text goes here
     contributions: other text goes here
   - project:
+    period: 03/2001 - 11/2001
+    duration: 9 months
+    clientType: Web Hosting Company
+    codename: IDS Probe
+    description: |
+      Design and implement a Network Intrusion Detection System (IDS) probe for the Universal Web Hosting Server Farm (USF V3) in Frankfurt.
+    role: Project Manager, IT Architect
+    contributions: 
+      Provided initial design for probe placement, 
+      Directed development of (SNORT based) self installing Linux IDS probe, 
+      Designed test environment for IDS probe, 
+      Provided hardening for IDS probe, 
+      Directed packaging of IDS probe software, 
+      Directed installation of IDS probe in Frankfurt, 
+      Trained operations team, 
+      Collaborated with international team to integrate solution.
+  - project:
     period: 02/2001 - 04/2001
     duration: 3 months
     clientType: GSM TELCOs

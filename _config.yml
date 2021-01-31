@@ -6,7 +6,20 @@ name: Sean Donnellan
 # Build settings
 markdown: kramdown
 #comment out this line when ready (no longer draft)
-status: --- Draft ---
+status: |
+  --- Draft ---
+  Section status
+  navbar - Done
+  Intro - Early Draft
+  Buzzwords - Done
+  Patents - Done
+  Publications - AWOL
+  Badges - Requires formating, contents done
+  Employer history - Done, requires content review
+  GitHub - Skeleton done, need to add more github content from local systems
+  Projects - Skeleton done, contents AWOL
+  additional information - skeleton done, content mostly AWOL
+
 
 #User specific content
 #Links that will appear in the navbar

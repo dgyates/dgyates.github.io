@@ -262,35 +262,33 @@ additionalinfo: |
   Implementing an IBM System x iDataPlex Solution, 2009, ISBN/ISSN 0738432520<br/>
   Building an Efficient Data Center with IBM iDataPlex, 2008, REDP-4418-00<br/>
   Dual Data Center - Shared converged PoD, 2005, IBM ICM AssetWeb<br/><br/>
-  <strong>Patents</strong>: <br/>
-  4 patents - <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">view: google patent search (inventor;sean donnellan)</a>
-  <br/><br/>
 
 #test section not yet in templates
 patents:
   - patent:
-    title: test1
-    ID: 123456
+    title: Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 
+    ID: US8429651B2
     Link: |
-      <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
-    abstract: kljhasdfkjjhasdfkhjasklfhj
+      <a target='_blank' href="https://patents.google.com/patent/US8429651B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
+    abstract: |
+      A virtual machine is migrated between a source cloud and a destination cloud. A temporary storage is mounted to a partition management firmware of the source cloud and to a partition management firmware of the destination cloud. A first storage location migration migrates the virtual machine from the source cloud to the at least one temporary storage. A second storage location migration migrates the virtual machine from the at least one temporary storage to final destination storage of the destination cloud. The temporary storage is then unmounted from the partition management firmware of the source cloud and from the partition management firmware of the destination cloud.
   - patent:
     title: test2
     ID: 123456
     Link: |
-      <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
+      <a target='_blank' href="https://patents.google.com/patent/US8448171B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
     abstract: kljhasdfkjjhasdfkhjasklfhj
   - patent:
     title: test3
     ID: 123456
     Link: |
-      <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
+      <a target='_blank' href="https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
     abstract: kljhasdfkjjhasdfkhjasklfhj
   - patent:
     title: test4
     ID: 123456
     Link: |
-      <a target='_blank' href="https://patents.google.com/?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">4 Patents via google patents search</a>
+      <a target='_blank' href="https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
     abstract: kljhasdfkjjhasdfkhjasklfhj
  
 #adding to the templates

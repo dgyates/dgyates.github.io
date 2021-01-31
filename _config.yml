@@ -6,7 +6,7 @@ name: Sean Donnellan
 # Build settings
 markdown: kramdown
 #comment out this line when ready (no longer draft)
-status: |
+status: >
   --- Draft ---
   Section status
   navbar - Done

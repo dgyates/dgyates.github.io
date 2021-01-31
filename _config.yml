@@ -296,7 +296,15 @@ additionalinfo: |
     4Q 2004 - Logfile Analysis, <br/>
     1Q 2002 - Network Intrusion Detection System.
 
-#test section not yet in templates
+additionalinformation:
+  - title: test1
+    text: |
+      test test1 test.
+  - title: test2
+    text: |
+      test test2 test.
+
+#patents
 patents:
   - patent:
     title: Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 

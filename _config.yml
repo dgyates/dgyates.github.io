@@ -8,7 +8,7 @@ markdown: kramdown
 
 #comment out this line when ready (no longer draft)
 status: 
-  overal: --- Draft ---
+  overall: --- Draft ---
   sections: 
     - navbar - Done
     - Intro - Early Draft

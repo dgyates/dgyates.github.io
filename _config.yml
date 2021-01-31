@@ -43,18 +43,18 @@ intro: |
   <br/><br/>
   I have worked in large scale data center migration, management, 
   and governance roles across Europe and globally.
-  </br>
+  <br/>
   I have worked in the IT industry since 1995. 
   I started as a specialist for UNIX and networking. 
   I quickly moved on to parallel computing and enterprise firewall design as an architect and consultant. 
   Initially working for an IBM business partner I was involved in both large and small projects across a wide spectrum. 
   Activities included planning and providing training to customers, architecture, consulting, delivery of architectures, automation, team lead, and last level support for more complex problems. 
   Notable achievements are over 5 Extranet firewalls for large corporations and SMB.
-  </br>
+  <br/>
   In 2000 I left the business partner to start up my own consulting company. 
   During which time I developed and internally used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
   Other achievments during this time are customer aquisition and numerous small projects such as highly available DHCP infrastructures or Intranet firewalls.
-  </br>
+  <br/>
   In late 2000 I was hired by IBM as an IT architect. 
   I have been involved in data centre design, network design, security design, Virtualization design, and systems management. 
   Amongst other things I have worked with international teams to further Linux on z, data centre design, firewall design, virtualization, and IDS design. 
@@ -129,57 +129,57 @@ roles:
    end: Ongoing
    employer: IBM
    description: |
-    10/2000 - To date </br>
-    IBM, Germany </br>
-    IT Architect </br>
-    Achievements- </br>
-     Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks </br>
-      and numerous further patent applications and granted patents,  </br>
-       Author of Redbook and redpiece on iDataPlex, </br>
-       On Demand Data Center Services (ODCS)- Universal Mgmt. infrastructure (UMI) Dual data center design, </br>
-       Firewall looking glass design, </br>
-       Universal web hosting server farm (USF) firewall mgmt. and improvement, </br>
-       Extranet design, </br>
-       Enterprise data centre firewall placement, </br>
-       Cloud Virtualization Design and security. </br> 
-    Roles- IT Architect  </br>
-    Managers- Reiner Lauster from 15/10/2000 to 28/2/2004 </br>
-    Mark Dietrich from 1/3/2004 to 31/8/2004 </br>
-    Peter John from 1/9/2004 to 31/8/2006 </br>
-    Joerg Hess from 1/9/2006 to 30/6/2007 </br>
-    Peter John from 1/7/2007 to 28/4/2009 </br>
-    Antonio Aliatakis 1/5/2009 to 31/12/2009 </br>
-    Nicola Nicolic 1/1/2010 to 31/1/2010 </br>
+    10/2000 - To date <br/>
+    IBM, Germany <br/>
+    IT Architect <br/>
+    Achievements- <br/>
+     Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks <br/>
+      and numerous further patent applications and granted patents,  <br/>
+       Author of Redbook and redpiece on iDataPlex, <br/>
+       On Demand Data Center Services (ODCS)- Universal Mgmt. infrastructure (UMI) Dual data center design, <br/>
+       Firewall looking glass design, <br/>
+       Universal web hosting server farm (USF) firewall mgmt. and improvement, <br/>
+       Extranet design, <br/>
+       Enterprise data centre firewall placement, <br/>
+       Cloud Virtualization Design and security. <br/> 
+    Roles- IT Architect  <br/>
+    Managers- Reiner Lauster from 15/10/2000 to 28/2/2004 <br/>
+    Mark Dietrich from 1/3/2004 to 31/8/2004 <br/>
+    Peter John from 1/9/2004 to 31/8/2006 <br/>
+    Joerg Hess from 1/9/2006 to 30/6/2007 <br/>
+    Peter John from 1/7/2007 to 28/4/2009 <br/>
+    Antonio Aliatakis 1/5/2009 to 31/12/2009 <br/>
+    Nicola Nicolic 1/1/2010 to 31/1/2010 <br/>
     Gerhard Eikmeier 1/2/2010 and on.
  - title: System Engineer
    start: 2000
    end: 2000
    employer: Self Employed
    description: |
-    04/2000 - 10/2000 </br>
-    Self Employed Consultant, Germany </br>
-    Freelance IT Security and Network Consultant </br>
-    Achievements- Diverse customer projects and firewalls. </br>
+    04/2000 - 10/2000 <br/>
+    Self Employed Consultant, Germany <br/>
+    Freelance IT Security and Network Consultant <br/>
+    Achievements- Diverse customer projects and firewalls. <br/>
     Roles- Consultant.
  - title: Senior Engineer
    start: 1995
    end: 2000
    employer: Sysdat GmbH
    description: |
-    02/1995 - 04/2000 </br>
-    SYSDAT GmbH, Germany </br>
-    Senior Consultant IT Security </br>
-    Achievements- </br>
-     Corporate firewall design, </br>
-     Unix Automation,  </br>
-     High Availability, </br>
-     Creation of Firewall Dept. </br>
-    Roles- </br>
-     Head of firewall team, </br>
-      Consultant, </br>
-      3rd level support for- AIX/UNIX, </br>
-      Internet protocol (IP), </br>
-      and Internet related issues. </br>
+    02/1995 - 04/2000 <br/>
+    SYSDAT GmbH, Germany <br/>
+    Senior Consultant IT Security <br/>
+    Achievements- <br/>
+     Corporate firewall design, <br/>
+     Unix Automation,  <br/>
+     High Availability, <br/>
+     Creation of Firewall Dept. <br/>
+    Roles- <br/>
+     Head of firewall team, <br/>
+      Consultant, <br/>
+      3rd level support for- AIX/UNIX, <br/>
+      Internet protocol (IP), <br/>
+      and Internet related issues. <br/>
     Manager- Michael Brueckner.
  - title: Translator
    start: 1991
@@ -291,8 +291,8 @@ additionalinfo: |
   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. I have experience with an array of testing tools and technologies.<br/><br/>
   <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
   <strong>Diploma thesis supervisor</strong>: <br/>
-  Supervised two Bsc. diploma thesis: </br>
-    4Q 2004 - Logfile Analysis, </br>
+  Supervised two Bsc. diploma thesis: <br/>
+    4Q 2004 - Logfile Analysis, <br/>
     1Q 2002 - Network Intrusion Detection System.
 
 #test section not yet in templates
@@ -326,7 +326,7 @@ publications:
     ID: IBM Technical Support Organization, 2009, ISBN/ISSN 0738432520
     link: https://www-2000.ibm.com/partnerworld/ap/kr/redbook_6.pdf
     abstract: |
-      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.</br>
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.<br/>
       in: IBM Redbooks > Infrastructure Solutions.
       Describes scale out server deployments for both traditional and new deployment modes. 
       Includes designs of alternative cooling methods, and 40 foot container deployments etc.
@@ -335,15 +335,15 @@ publications:
     ID: IBM Technical Support Organization, 2008, REDP-4418-00
     link: https://lenovopress.com/redp4418
     abstract: |
-      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. </br>  
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. <br/>  
       in: IBM Redbooks > Infrastructure Solutions
       Describes scale out server deployments for both traditional and new deployment modes. 
   - publication:
     title: Dual Data Center - Shared converged PoD
     ID: IBM, 2005, Internal IBM ICM AssetWeb - e-business Infrastructure & Solutions
     abstract: |
-      Sean Donnellan</br>
-      Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. </br>
+      Sean Donnellan<br/>
+      Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. <br/>
       Would be called cloud today.
 
 #adding to the templates
@@ -446,7 +446,7 @@ projects:
       Provide security expertise to customers. 
       Improve the companies own internal network security and provide secure access to the Internet and partners.
     contributions: |
-      Created the Firewall dept.</br> Designed and built the company Internet and Extranet connectivity.</br> Designed the company Intranet proxy systems.</br> Provided customers with security expertise.</br> Designed and built numerous, multi tier, corporate firewall systems for banks, retail industry, manufacturing industry, and utility companies (based on Cisco, IBM, and Microsoft products).</br> Designed companies Extranet connectivity.</br> Designed anti virus solutions and so on.
+      Created the Firewall dept.<br/> Designed and built the company Internet and Extranet connectivity.<br/> Designed the company Intranet proxy systems.<br/> Provided customers with security expertise.<br/> Designed and built numerous, multi tier, corporate firewall systems for banks, retail industry, manufacturing industry, and utility companies (based on Cisco, IBM, and Microsoft products).<br/> Designed companies Extranet connectivity.<br/> Designed anti virus solutions and so on.
   - project:
     period: 04/1997 - 12/1997
     duration: 9 months

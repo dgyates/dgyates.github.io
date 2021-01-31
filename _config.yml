@@ -324,7 +324,7 @@ projects:
       E-business Hosting Services is an IBM web hosting business unit. 
       The project encompassed the ongoing support and build phases of the hosting centres in Germany.
     contributions: | 
-      "IT Architect: 
+      IT Architect - 
         Evaluate and integrate new techologies,
         Assist infrastructure support activities,
         Work with support team 
@@ -332,11 +332,11 @@ projects:
         Support network build of new DC hosting facility, 
         Design and implement monitoring solution, 
         Support network security team. 
-      Tools used in the USF: 
+      Tools used in the USF - 
         Tivoli systems management environments, 
         Netview, 
         Xylan and Cisco switches, 
-        AIX and NOKIA based CheckPoint FireWall-1 systems."
+        AIX and NOKIA based CheckPoint FireWall-1 systems.
   - project:
     period: 08/1998 - 12/1998
     duration: 5 months

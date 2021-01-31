@@ -306,7 +306,7 @@ patents:
  
 #adding to the templates
 projects:
-  - templateproject:
+  - project:
     period: 2000
     duration: 9 months
     clientType: big something company
@@ -314,6 +314,17 @@ projects:
     role: test
     description: text goes here
     contributions: other text goes here
+  - project:
+    period: 02/2001 - 04/2001
+    durations: 3 months
+    clientType: GSM TELCOs
+    codename: GPRS Roaming Backbone
+    description: |
+      Provide a General Packet Radio Service (GPRS) roaming back bone and application hosting facilities for GPRS Global System for Mobile Communications (GSM) telecommunication companies.
+    role: IT Architect Network and Security
+    contributions: |
+      Initial network design work, 
+      Initial project estimations.
   - project:
     period: 10/2000 - 12/2002
     duration: 27 months

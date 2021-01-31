@@ -268,28 +268,24 @@ patents:
   - patent:
     title: Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 
     ID: US8429651B2
-    link: |
-      <a target='_blank' href="https://patents.google.com/patent/US8429651B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
+    link: https://patents.google.com/patent/US8429651B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
     abstract: |
       A virtual machine is migrated between a source cloud and a destination cloud. A temporary storage is mounted to a partition management firmware of the source cloud and to a partition management firmware of the destination cloud. A first storage location migration migrates the virtual machine from the source cloud to the at least one temporary storage. A second storage location migration migrates the virtual machine from the at least one temporary storage to final destination storage of the destination cloud. The temporary storage is then unmounted from the partition management firmware of the source cloud and from the partition management firmware of the destination cloud.
   - patent:
     title: Communications between virtual machines that have been migrated 
     ID: US8448171B2
-    link: |
-      <a target='_blank' href="https://patents.google.com/patent/US8448171B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
+    link: https://patents.google.com/patent/US8448171B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
     abstract: |
       A method, apparatus, and computer program product for managing communications between a plurality of applications are presented. A determination is made as to whether an address in a message is a prior address for a second application in the plurality of applications in response to receiving a message from a first application in the plurality of applications. The message is sent onto a virtual network configured to handle prior addresses for the plurality of applications in response to the address in the message being the prior address for the second application being located on another virtual machine from the first application.
   - patent:
     title: Method and apparatus for providing a test network as an IP accessible cloud service
     ID: US9286103B2
-    link: |
-      <a target='_blank' href="https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
+    link: https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
     abstract: A method and structure for a cloud service includes an API (application programming interface) as tangibly embodied in a set of computer-executable instructions and selectively executable on a computer on a network. The API provides a user interface for a cloud environment comprising one or more virtual machines to be selectively instantiated on at least one computer in the network upon a user request. A library is accessible via the API, the library providing definitions of components available to be instantiated in the cloud environment. The API automatically instantiates an image of a virtual network of components, as defined by a user input request and provides at least one cloud portal providing the user an access to exercise the instantiated virtual network image.
   - patent:
     title: Deploy a secure customer domain in a virtualized multi-tenant environment 
     ID: DE112014002799T5
-    link: |
-      <a target='_blank' href="https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan">patent</a>
+    link: https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
     abstract:  To provide a secure customer domain in a virtualized multi-tenant environment, a virtual machine (VM) is configured in a customer domain. A first, a second, and a third network interface (VNICs) are configured in the VM. The first VNIC has a first network address in a first address range for a customer domain and allows an application in the VM to access a second application in a second VM in the customer domain. The second VNIC allows a third application outside the customer domain to access the VM in the customer domain. The second VNIC is configured to utilize an address specification used by the server and the third application. The third VNIC allows access from the first application to a fourth application running outside the customer domain. The third VNIC is configured to use an address specification used by the server of the fourth application. 
  
 #adding to the templates

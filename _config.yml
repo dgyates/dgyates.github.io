@@ -358,6 +358,19 @@ projects:
     description: text goes here
     contributions: other text goes here
   - project:
+    period: 01/2003 - 06/2003
+    duration: 6 months
+    clientType: Large Insurance Company
+    codename: Privacy Firewall
+    description: | 
+      Evaluate the concept of a filter system for customer data sent across IBM 3270 (mainframe) connexions.
+    role: IT Security Architect 
+    contributions: |
+      Provided advice during prototype development, <br/>
+      Developed test scenario for evaluation, <br/>
+      Supervised initial tests, <br/>
+      Counselled Project Manager and lead IT Architect.
+  - project:
     period: 09/2001 - 03/2002
     duration: 7 months
     clientType: Development Laboratory

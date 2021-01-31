@@ -7,7 +7,8 @@ name: Sean Donnellan
 markdown: kramdown
 
 #comment out this line when ready (no longer draft)
-status: --- Draft ---
+status: 
+  overal: --- Draft ---
   sections: 
     - navbar - Done
     - Intro - Early Draft

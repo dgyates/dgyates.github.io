@@ -365,13 +365,13 @@ publications:
 #adding to the templates
 projects:
   - project:
-    period: 2000
-    duration: 9 months
-    clientType: big something company
+    period: 2021
+    duration: 0 months
+    clientType: CV writing
     codename: nina simone
-    role: test
-    description: text goes here
-    contributions: other text goes here
+    role: Owner
+    description: Updating this CV right now if you see this.
+    contributions: Author, web design, Github integration of CV.
   - project:
     period: 01/2003 - 05/2003
     duration: 5 months

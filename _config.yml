@@ -285,14 +285,6 @@ acclaim:
       badgeId: 6b987988-3e18-45d3-8349-b1543d197678
       issuedBy: na
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: | 
-  <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
-  <strong>Diploma thesis supervisor</strong> <br/>
-  Supervised two Bsc. diploma thesis- <br/>
-    4Q 2004 - Logfile Analysis, <br/>
-    1Q 2002 - Network Intrusion Detection System.
-
 #new additional info section with headers
 additionalinformation:
   - title: Cloud platforms
@@ -310,7 +302,15 @@ additionalinformation:
     text: |
       I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
       I have experience with an array of testing tools and CI/CD technologies and methods.
-
+  - title: Internet Of Things (IOT)
+    text: |
+      I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, KNX/EIB, LORAWAN, ISM Band communications, and many other related topics.
+  - title: Diploma thesis supervisor
+    text: |
+    Supervised two Bsc. diploma thesis <br/>
+    4Q 2004 - Logfile Analysis, <br/>
+    1Q 2002 - Network Intrusion Detection System.
+    
 #patents
 patents:
   - patent:

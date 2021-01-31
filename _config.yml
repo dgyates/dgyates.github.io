@@ -9,7 +9,6 @@ markdown: kramdown
 #comment out this line when ready (no longer draft)
 status: --- Draft ---
   sections: 
-    - Section status
     - navbar - Done
     - Intro - Early Draft
     - Buzzwords - Done

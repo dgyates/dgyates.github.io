@@ -308,6 +308,7 @@ publications:
   - publication:
     title: Implementing an IBM System x iDataPlex Solution
     ID: IBM Technical Support Organization, 2009, ISBN/ISSN 0738432520
+    link: https://www-2000.ibm.com/partnerworld/ap/kr/redbook_6.pdf
     abstract: |
       David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.</br>
       in: IBM Redbooks > Infrastructure Solutions.
@@ -316,6 +317,7 @@ publications:
   - publication:
     title: Building an Efficient Data Center with IBM iDataPlex
     ID: IBM Technical Support Organization, 2008, REDP-4418-00
+    link: https://lenovopress.com/redp4418
     abstract: |
       David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. </br>  
       in: IBM Redbooks > Infrastructure Solutions

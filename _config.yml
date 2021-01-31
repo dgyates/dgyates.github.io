@@ -274,10 +274,10 @@ additionalinfo: |
   <strong>Data analysis</strong>: Through DC projects, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. I have experience with an array of testing tools and technologies.<br/><br/>
   <strong>IOT</strong>: I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, and KNX/EIB. <br/><br/>     
-  <strong>Publications</strong>: <br/>
-  Implementing an IBM System x iDataPlex Solution, 2009, ISBN/ISSN 0738432520<br/>
-  Building an Efficient Data Center with IBM iDataPlex, 2008, REDP-4418-00<br/>
-  Dual Data Center - Shared converged PoD, 2005, IBM ICM AssetWeb<br/><br/>
+  <strong>Diploma thesis supervisor</strong>: <br/>
+  Supervised two Bsc. diploma thesis: </br>
+    4Q 2004 - Logfile Analysis, </br>
+    1Q 2002 - Network Intrusion Detection System.
 
 #test section not yet in templates
 patents:

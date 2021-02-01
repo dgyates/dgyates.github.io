@@ -22,7 +22,6 @@ status:
     - Projects - Skeleton done, contents 25%
     - additional information - content max 60%
 
-#User specific content
 #Links that will appear in the navbar
 primarylinks:
   - title: GitHub
@@ -203,19 +202,6 @@ education:
    date: 1990
    subject: Sutton Park
    school: Sutton Park School Howth Dublin Ireland
-
-#This section is optional (as is the image link below)
-#coursera:
-#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-#   courses:
-#    - title: Functional Programming Principles in Scala
-#      link: https://www.coursera.org/course/progfun
-#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-#      date: September 16, 2013
-#    - title: Algorithms Design and Analysis, Part 1
-#      link: https://www.coursera.org/specializations/algorithms
-#     optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-#      date: April 28, 2014
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json

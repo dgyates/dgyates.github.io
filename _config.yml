@@ -10,17 +10,12 @@ markdown: kramdown
 status: 
   overall: --- Draft ---
   sections: 
-    - navbar - Done
-    - languages - done
-    - Buzzwords - Done
-    - Patents - Done
-    - Publications - done
     - Intro - Draft 90%
     - Badges - Requires formating 98%
     - Employer history - requires content review 66%
-    - GitHub - need to add more github content from local systems
-    - Projects - Skeleton done, contents 25%
-    - additional information - content max 60%
+    - GitHub - need to add
+    - Projects - contents 75%
+    - additional info - content max 60%
 
 #Links that will appear in the navbar
 primarylinks:
@@ -366,6 +361,206 @@ projects:
     role: Owner
     description: Updating this CV right now if you see this.
     contributions: Author, web design, Github integration of CV.
+  - project: 
+    period: 06/2013 - To date
+    duration: 92 months
+    cleintType: Large technology corporation
+    codename: EMEA Technical Design Authority
+    description: |
+      Perform architecture reviews,<br/> 
+      set standards,<br/> 
+      Assist engagement teams,<br/> 
+      Set strategy,<br/> 
+      Responsible for interfacing with global teams,<br/> 
+      Provide gorvernance to IMT teams.
+    role: IT Architect
+    contributions: 
+      Active participation in the global GSNI ARB, NS-ACB, ant other boards,<br/> 
+      Led device certifications for cloud infrastructure,<br/> 
+      Led the Pureflex technical network taskforce,<br/> 
+      Authored strategy papers,<br/> 
+      Led the firmware fix for the entire IBM network switch range,<br/> 
+      Created architecture templates and working examples,<br/> 
+      Performed as lead network architect in engagements.
+  - project:
+    period: 01/2011 - 06/2013
+    duration: 30 months
+    clientType: Large Technology Corporation
+    codename: GTS_SSA_(Sean Donnellan)
+    description: |
+      Develop, document secure, available, 
+      and flexible Networking and computing infrastructure to host multiple tenants and/or tiers.
+    role: IT Architect
+    contributions: |
+      Planned server network integration tests,<br/> Created architecture documents,<br/> co-authered and reviewed Network architectural documents (ARC 317),<br/> Managed and coordinated network tests,<br/> co-authored and reviewed infrastructure tests,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during test phases.
+  - project:
+    period: 07/2009 - 12/2009
+    duration: 6 months
+    clientType: retail
+    codename: Data Center Build Planet
+    description: |
+      Develop, document and deploy secure, available, 
+      and flexible computing infrastructure to host client. 
+      In general provide Dynamic on premise DC Infrastructure for client. 
+    role: Lead Network Architect
+    contributions: |
+      \rdblquote IT-Architect\rdblquote :<br/> Planned customer server migrations,<br/> Created architecture documents,<br/> Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> Managed and coordinated customer migrations,<br/> Managed and coordinated infrastructure migrations,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during migration phases.
+  - project:
+    period: 02/2009 - 01/2011
+    duration: 24 months
+    ClientType: IBM Global Technology Services
+    codename: EMEA Virtualization Wave 2
+    description: |
+      Develop and document secure, available, 
+      and flexible computing infrastructure to host multiple customers on pooled hardware. 
+      In general provide Dynamic Infrastructure for IBM owned data centres.
+    role: IT Infrastructure Architect
+    contributions: |
+      Prepared and achieved internal security certification for multi-tennant virtualization.<br/> 
+      Prepared requirements documents for network providers includng SLA, technical requirements, 
+      strategic future requirements, and automation requirements.
+  - project:
+    period: 05/2008 - 06/2008
+    duration: 2 months
+    clientType: IBM Technical Support Organization
+    codename: iDataPlex Redbook, Redpiece, and SAPR Guide
+    description: |
+      Write a Redbook, a Redpiece, and a SAPR guide for iDataPlex.
+    role: Author
+    contributions: |
+      Co-authored all three documents.<br/>
+      Implementing an IBM System x iDataPlex Solution (ISBN 0738432520),<br/> 
+      Building an Efficient Data Center with IBM iDataPlex (IBM Form Number REDP-4418-00)
+  - project:
+    period: 02/2007 - 03/2009
+    duration: 26 months
+    clientType: IT Service Delivery
+    codename: GSNI Migration
+    description: |
+      Deploy and transform a new network architecture for the data centres GSNI Schweinfurt and Ehningen.
+    role: IT Architect
+    contributions: |
+      Performed GAP analysis of new GSNI architecture and existing server implementations,<br/> 
+      Planned customer server migrations,<br/> 
+      Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> 
+      Managed and coordinated customer migrations,<br/> 
+      Managed and coordinated infrastructure migrations.
+  - project:
+    period: 07/2006 - 08/2007
+    duration: 14 months
+    cleintType: IT Service Delivery
+    codename: Advanced Power Virtualization
+    description: |
+      Design and gain internal certification for a virtualized system P IT delivery platform to replace legacy system P environments. 
+    role: IT Architect
+    contributions: |
+      Created architecture documents,<br/> 
+      Created certification documents,<br/> 
+      Documented LAN Design,<br/> 
+      Managed security certification process.
+  - project: 
+    period: 10/2005 - 07/2006
+    duration: 10 months
+    clientType: Large Insurance
+    codename: Blue Danube Boarding
+    description: |
+      Customer boarding to new dual data centre.
+    role: 
+      Lead Network Architect
+    contributions: |
+      Architecture updates,<br/> 
+      Trouble shooting,<br/> 
+      Firewall flows,<br/> 
+      General network and Universal Management Infrastructure (UMI) integration questions.
+  - project:
+    period: 04/2005 - 01/2006
+    duration: 10 months
+    clientType: Web Hosting Company
+    codename: GENO Move
+    description: |
+      Move the universal web hosting server farm (USF) from Frankfurt to Ehningen. 
+      All customers and infrastructure to be moved.
+    role: IT Architect
+    contributions: |
+      Documented existing back end connexions,<br/> 
+      Planned move of back end connexions,<br/> 
+      Provided advice during move,<br/> 
+      Coordinated firewall changes,<br/> 
+      Provided last level support for back end move,<br/> 
+      Coordinated third parties.
+  - project:
+    period: 11/2004 - 09/2005
+    duration: 11 months
+    clientType: Large Insurance
+    codename: PoD Deployment
+    description: |
+      Deployment of a dual data centre \ldblquote Universal Management Infrastructure\rdblquote  shared converged \ldblquote Point of Deployment\rdblquote . (UMI shared cPoD).
+    role: Lead Network Architect
+    contributions: |
+      Design of dual data centre option to cPoD design,<br/> Documentation of dual DC UMI PoD (ARC 317),<br/> Firewall flow documentation,<br/> Input into design of other dual DC PoDs being deployed.<br/> 
+  - project:
+    period: 10/2004 - 12/2004
+    duration: 3 months
+    clientType: Multinational Industrial
+    codename: Firewall Looking Glass for UMI PoD Firewalls
+    description: 
+      Create a mechanism to allow a customer to view customer related parts of firewall configurations,
+       rules, and log files without viewing IBM related rules and log file entries.
+    role: Lead Architect
+    contributions: 
+      Designed,<br/> 
+      Implemented,<br/> 
+      And documented the system.<br/> 
+      Directed the software developers,<br/> 
+      And coordinated the integration.
+  - project:
+    period: 09/2004 - 10/2004
+    duration: 2 months
+    clientType: Airline
+    codename: Aerodyn
+    description: | 
+      Customer engagement. 
+      eBusiness Hosting engagement of large customer, 
+      Data centre redesign.
+    role: IT Network and Security Architect
+    contributions: |
+      Gathered information about system dependancies,<br/> 
+      Created architectural decisions documentation for DC changes,<br/> 
+      Assisted engagement team,<br/> 
+      Interacted directly with the customer.
+  - project:
+    period: 06/2004 - 12/2004
+    duration: 7 months
+    clientType: Multinational Industrial
+    codename: UMI PoD Pilot
+    description: |
+      Pilot a UMI PoD deployment for the customer.<br/> 
+    role: IT Network Architect
+    contributions: |
+      Co-author of Technical Solution Design document including firewall application flows,<br/>
+      Network design,<br/> 
+      Node placement,<br/> 
+      etc. 
+  - project:
+    period: 07/2003 - 10/2004
+    duration: 16 months
+    clientType: Multinational Industrial
+    codename: Yellowstone SNI Connexions
+    description: |
+      Part of the customer outsourcing project.<br/> 
+      Document existing IBM Shared Network Infrastructure (SNI) connexions,<br/>
+      Design, Implement, And test new SNI connexions,<br/> 
+      Ensure security policies are adhered to.
+    role: IT Architect
+    contributions: |
+      Gathered customer requirements,<br/> 
+      Provided advice to other teams regarding contract,<br/> 
+      Designed new SNI connexions between customer and IBM,<br/> 
+      Documented new connexions,<br/> 
+      Documented existing connexions,<br/> 
+      Documented access methods,<br/> 
+      Provided security advice to other sub projects,<br/> 
+      Coordinated Customer to IBM email (Notes) connexions.
   - project:
     period: 07/2003 - 02/2004
     duration: 8 months
@@ -522,3 +717,58 @@ projects:
       and application testing.
       I wrote a web based problem ticket system for the team (>30 people).
       Assisted in the development of the configuration Graphical User Interface (CMDB) and software which was used to provision servers and workstations.
+
+#ignored section
+coursesAndCerts:
+  certifications:
+    - date: 2006-07-25 
+      title: ISC^2 CISSP
+    - date: 2004-11-09 
+      title: ITIL Foundation Cert. in IT Service Management
+    - date: 2000-07-01 
+      title: IBM Certificate of Proficiency for AIX V4.2 Installation and System Recovery 
+    - date: 2000-07-01 
+      title: IBM Certified Specialist Web Server for RS/6000
+    - date: 2000-07-01 
+      title: IBM Certified Advanced Technical Expert RS/6000 AIX V4
+    - date: 2000-06-24 
+      title: Tivoli Certified Consultant TME 10 Network Management
+    - date: 2000-06-24 
+      title: IBM Certification for SecureWay Firewall for AIX
+    - date: 1999-07-22 
+      title: IBM Certified Specialist HACMP for AIX
+    - date: 1999-07-22 
+      title: IBM Certificate of Proficiency for AIX V4.2 Communications
+    - date: 1999-01-18 
+      title: IBM Certified Solutions Expert Firewall for AIX
+    - date: 1999-01-18 
+      title: IBM Certified User AIX V4
+    - date: 1996-12-31 
+      title: IBM Certified Specialist AIX V4.1 Support
+    - date: 1996-12-31 
+      title: IBM Certified Specialist AIX V4.1 System Administration
+  training: 
+    - date: 2007-07-03 
+      title: ITSO Linux Performance and Tuning Workshop ITS771DE
+    - date: 2006-12-05 
+      title: Risk Management PM55G
+    - date: 2006-10-04 
+      title: Leadership in a Project Team Environment PM11G 
+    - date: 2006-12-06 
+      title: Konstruktiv mit Konflikten umgehen 33K50DE 
+    - date: 2005-07-11 
+      title: IBM Unified Method Framework for TI Professionals TIWSBX 
+    - date: 2004-11-05 
+      title: Client Consulting for IT Architects 
+    - date: 2004-11-17 
+      title: Project Management Fundamentals 
+    - date: 2003-05-05 
+      title: Method for Architecting a Secure Solution 
+    - date: 2003-07-07 
+      title: IGSMethod Architectural Thinking 
+    - date: 2003-09-16 
+      title: IGSMethod Practical Use Case Modeling 
+    - date: 2003-05-06 
+      title: Foundation of the IT Architect Profession 
+    - date: 2003-07-02 
+      title: IBM Tivoli Risk Manager 4.2 ESP Workshop

@@ -374,7 +374,7 @@ projects:
     description: |
       Pilot a UMI PoD deployment for the customer.<br/> 
     role: IT Network Architect
-    Contributions: |
+    contributions: |
       Co-author of Technical Solution Design document including firewall application flows,<br/>
       Network design,<br/> 
       Node placement,<br/> 

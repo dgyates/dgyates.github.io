@@ -367,6 +367,26 @@ projects:
     description: Updating this CV right now if you see this.
     contributions: Author, web design, Github integration of CV.
   - project:
+    period: 07/2003 - 10/2004
+    duration: 16 months
+    clientType: Multinational Industrial
+    codename: Yellowstone SNI Connexions
+    description: |
+      Part of the customer outsourcing project.<br/> 
+      Document existing IBM Shared Network Infrastructure (SNI) connexions,<br/>
+      Design, Implement, And test new SNI connexions,<br/> 
+      Ensure security policies are adhered to.
+    role: IT Architect
+    contributions: |
+      Gathered customer requirements,<br/> 
+      Provided advice to other teams regarding contract,<br/> 
+      Designed new SNI connexions between customer and IBM,<br/> 
+      Documented new connexions,<br/> 
+      Documented existing connexions,<br/> 
+      Documented access methods,<br/> 
+      Provided security advice to other sub projects,<br/> 
+      Coordinated Customer to IBM email (Notes) connexions.<br/> 
+  - project:
     period: 07/2003 - 02/2004
     duration: 8 months
     clientType: Multinational Industrial

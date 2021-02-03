@@ -392,10 +392,10 @@ projects:
       Data centre redesign.
     role: IT Network and Security Architect
     contributions: |
-    Gathered information about system dependancies,<br/> 
-    Created architectural decisions documentation for DC changes,<br/> 
-    Assisted engagement team,<br/> 
-    Interacted directly with the customer.
+      Gathered information about system dependancies,<br/> 
+      Created architectural decisions documentation for DC changes,<br/> 
+      Assisted engagement team,<br/> 
+      Interacted directly with the customer.
   - project:
     period: 06/2004 - 12/2004
     duration: 7 months
@@ -585,3 +585,58 @@ projects:
       and application testing.
       I wrote a web based problem ticket system for the team (>30 people).
       Assisted in the development of the configuration Graphical User Interface (CMDB) and software which was used to provision servers and workstations.
+
+#ignored section
+coursesAndCerts:
+  certifications:
+    - date: 2006-07-25 
+      title: ISC^2 CISSP
+    - date: 2004-11-09 
+      title: ITIL Foundation Cert. in IT Service Management
+    - date: 2000-07-01 
+      title: IBM Certificate of Proficiency for AIX V4.2 Installation and System Recovery 
+    - date: 2000-07-01 
+      title: IBM Certified Specialist Web Server for RS/6000
+    - date: 2000-07-01 
+      title: IBM Certified Advanced Technical Expert RS/6000 AIX V4
+    - date: 2000-06-24 
+      title: Tivoli Certified Consultant TME 10 Network Management
+    - date: 2000-06-24 
+      title: IBM Certification for SecureWay Firewall for AIX
+    - date: 1999-07-22 
+      title: IBM Certified Specialist HACMP for AIX
+    - date: 1999-07-22 
+      title: IBM Certificate of Proficiency for AIX V4.2 Communications
+    - date: 1999-01-18 
+      title: IBM Certified Solutions Expert Firewall for AIX
+    - date: 1999-01-18 
+      title: IBM Certified User AIX V4
+    - date: 1996-12-31 
+      title: IBM Certified Specialist AIX V4.1 Support
+    - date: 1996-12-31 
+      title: IBM Certified Specialist AIX V4.1 System Administration
+  training: 
+    - date: 2007-07-03 
+      title: ITSO Linux Performance and Tuning Workshop ITS771DE
+    - date: 2006-12-05 
+      title: Risk Management PM55G
+    - date: 2006-10-04 
+      title: Leadership in a Project Team Environment PM11G 
+    - date: 2006-12-06 
+      title: Konstruktiv mit Konflikten umgehen 33K50DE 
+    - date: 2005-07-11 
+      title: IBM Unified Method Framework for TI Professionals TIWSBX 
+    - date: 2004-11-05 
+      title: Client Consulting for IT Architects 
+    - date: 2004-11-17 
+      title: Project Management Fundamentals 
+    - date: 2003-05-05 
+      title: Method for Architecting a Secure Solution 
+    - date: 2003-07-07 
+      title: IGSMethod Architectural Thinking 
+    - date: 2003-09-16 
+      title: IGSMethod Practical Use Case Modeling 
+    - date: 2003-05-06 
+      title: Foundation of the IT Architect Profession 
+    - date: 2003-07-02 
+      title: IBM Tivoli Risk Manager 4.2 ESP Workshop

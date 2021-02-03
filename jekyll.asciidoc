@@ -1,0 +1,7 @@
+= CV source code
+
+== _config.yml
+[source,yml]
+----
+include::./_config.yml[]
+----

@@ -367,6 +367,21 @@ projects:
     description: Updating this CV right now if you see this.
     contributions: Author, web design, Github integration of CV.
   - project:
+    period: 09/2004 - 10/2004
+    duration: 2 months
+    clientType: Airline
+    codename: Aerodyn
+    description: | 
+      Customer engagement. 
+      eBusiness Hosting engagement of large customer, 
+      Data centre redesign.
+    role: IT Network and Security Architect
+    contributions: |
+    Gathered information about system dependancies,<br/> 
+    Created architectural decisions documentation for DC changes,<br/> 
+    Assisted engagement team,<br/> 
+    Interacted directly with the customer.
+  - project:
     period: 06/2004 - 12/2004
     duration: 7 months
     clientType: Multinational Industrial

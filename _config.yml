@@ -476,7 +476,7 @@ Planned server network integration tests,<br/> Created architecture documents,<b
       Move the universal web hosting server farm (USF) from Frankfurt to Ehningen. 
       All customers and infrastructure to be moved.
     role: IT Architect
-    contributions: 
+    contributions: |
       Documented existing back end connexions,<br/> 
       Planned move of back end connexions,<br/> 
       Provided advice during move,<br/> 

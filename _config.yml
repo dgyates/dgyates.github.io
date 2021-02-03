@@ -366,6 +366,133 @@ projects:
     role: Owner
     description: Updating this CV right now if you see this.
     contributions: Author, web design, Github integration of CV.
+  - project: 
+    period: 06/2013 - To date
+    duration: 92 months
+Large technology corporation
+EMEA Technical Design Authority
+description:
+Perform architecture reviews,<br/> set standards,<br/> Assist engagement teams,<br/> Set strategy,<br/> Responsible for interfacing with global teams,<br/> Provide gorvernance to IMT teams.<br/> <br/> <br/> 
+role: 
+IT Architect
+contributions: 
+Active participation in the global GSNI ARB, NS-ACB, ant other boards,<br/> Led device certifications for cloud infrastructure,<br/> Led the Pureflex technical network taskforce,<br/> Authored strategy papers,<br/> Led the firmware fix for the entire IBM network switch range,<br/> Created architecture templates and working examples,<br/> Performed as lead network architect in engagements.<br/> <br/> 
+
+01/2011 - 06/2013
+    duration: 30 months
+Large Technology Corporation
+GTS_SSA_(Sean Donnellan)
+description:
+Develop, document secure, available, and flexible Networking and computing infrastructure to host multiple tenants and/or tiers.
+role: 
+IT Architect
+contributions: 
+Planned server network integration tests,<br/> Created architecture documents,<br/> co-authered and reviewed Network architectural documents (ARC 317),<br/> Managed and coordinated network tests,<br/> co-authored and reviewed infrastructure tests,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during test phases.
+  - project:
+    period: 07/2009 - 12/2009
+    duration: 6 months
+    clientType: retail
+    codename: Data Center Build Planet
+    description: |
+      Develop, document and deploy secure, available, 
+      and flexible computing infrastructure to host client. 
+      In general provide Dynamic on premise DC Infrastructure for client. 
+    role: Lead Network Architect
+    contributions: |
+      \rdblquote IT-Architect\rdblquote :<br/> Planned customer server migrations,<br/> Created architecture documents,<br/> Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> Managed and coordinated customer migrations,<br/> Managed and coordinated infrastructure migrations,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during migration phases.
+  - project:
+    period: 02/2009 - 01/2011
+    duration: 24 months
+    ClientType: IBM Global Technology Services
+    codename: EMEA Virtualization Wave 2
+    description: |
+      Develop and document secure, available, 
+      and flexible computing infrastructure to host multiple customers on pooled hardware. 
+      In general provide Dynamic Infrastructure for IBM owned data centres.
+    role: IT Infrastructure Architect
+    contributions: |
+      Prepared and achieved internal security certification for multi-tennant virtualization.<br/> 
+      Prepared requirements documents for network providers includng SLA, technical requirements, 
+      strategic future requirements, and automation requirements.
+  - project:
+    period: 05/2008 - 06/2008
+    duration: 2 months
+    clientType: IBM Technical Support Organization
+    codename: iDataPlex Redbook, Redpiece, and SAPR Guide
+    description: |
+      Write a Redbook, a Redpiece, and a SAPR guide for iDataPlex.
+    role: Author
+    contributions: |
+      Co-authored all three documents.<br/>
+      Implementing an IBM System x iDataPlex Solution (ISBN 0738432520),<br/> 
+      Building an Efficient Data Center with IBM iDataPlex (IBM Form Number REDP-4418-00)
+  - project:
+    period: 02/2007 - 03/2009
+    duration: 26 months
+    clientType: IT Service Delivery
+    codename: GSNI Migration
+    description: |
+      Deploy and transform a new network architecture for the data centres GSNI Schweinfurt and Ehningen.
+    role: IT Architect
+    contributions: |
+      Performed GAP analysis of new GSNI architecture and existing server implementations,<br/> 
+      Planned customer server migrations,<br/> 
+      Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> 
+      Managed and coordinated customer migrations,<br/> 
+      Managed and coordinated infrastructure migrations.
+  - project:
+    period: 07/2006 - 08/2007
+    duration: 14 months
+    cleintType: IT Service Delivery
+    codename: Advanced Power Virtualization
+    description: |
+      Design and gain internal certification for a virtualized system P IT delivery platform to replace legacy system P environments. 
+    role: IT Architect
+    contributions: |
+      Created architecture documents,<br/> 
+      Created certification documents,<br/> 
+      Documented LAN Design,<br/> 
+      Managed security certification process.
+  - project: 
+    period: 10/2005 - 07/2006
+    duration: 10 months
+    clientType: Large Insurance
+    codename: Blue Danube Boarding
+    description: |
+      Customer boarding to new dual data centre.
+    role: 
+      Lead Network Architect
+    contributions: |
+      Architecture updates,<br/> 
+      Trouble shooting,<br/> 
+      Firewall flows,<br/> 
+      General network and Universal Management Infrastructure (UMI) integration questions.
+  - project:
+    period: 04/2005 - 01/2006
+    duration: 10 months
+    clientType: Web Hosting Company
+    codename: GENO Move
+    description: |
+      Move the universal web hosting server farm (USF) from Frankfurt to Ehningen. 
+      All customers and infrastructure to be moved.
+    role: IT Architect
+    contributions: 
+      Documented existing back end connexions,<br/> 
+      Planned move of back end connexions,<br/> 
+      Provided advice during move,<br/> 
+      Coordinated firewall changes,<br/> 
+      Provided last level support for back end move,<br/> 
+      Coordinated third parties.
+  - project:
+    period: 11/2004 - 09/2005
+    duration: 11 months
+    clientType: Large Insurance
+    codename: PoD Deployment
+    description: |
+      Deployment of a dual data centre \ldblquote Universal Management Infrastructure\rdblquote  shared converged \ldblquote Point of Deployment\rdblquote . (UMI shared cPoD).
+    role: Lead Network Architect
+    contributions: |
+      Design of dual data centre option to cPoD design,<br/> Documentation of dual DC UMI PoD (ARC 317),<br/> Firewall flow documentation,<br/> Input into design of other dual DC PoDs being deployed.<br/> 
   - project:
     period: 10/2004 - 12/2004
     duration: 3 months

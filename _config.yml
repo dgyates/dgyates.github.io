@@ -31,7 +31,7 @@ primarylinks:
 # Introduction section
 intro: |
   I am an IT architect with 25+ years experience and passion working in technology. 
-  I have primarily worked as an IT infrastructure architect and have also ked teams and managed projects.
+  I have primarily had the responsibility of working as an IT infrastructure architect and have also led teams and managed projects.
   I have worked across a broad range of technologies 
   thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J and data science.
   As well as spending a reasonable amount of time building Cloud Network Infrastructure. 
@@ -44,13 +44,13 @@ intro: |
   I quickly moved on to parallel computing, enterprise firewall design, and automation, as an architect and consultant. 
   Initially working for an IBM business partner I was involved in both large and small projects across a wide spectrum. 
   Activities included planning and providing training to customers, architecture, consulting, delivery of architectures, automation, team lead, and last level support for more complex problems. 
-  Notable achievements are over 5 Extranet firewalls for large corporations and SMB before 2000.
+  Notable achievements are over 5 Extranet firewalls for large corporations and SMB aswell as automated HA solutions before 2000.
   <br/><br/>
   In 2000 I left the business partner to start up my own consulting company. 
-  During which time I developed and internally used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
+  During which time I developed and used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
   Other achievments during this time are customer aquisition and numerous small projects such as highly available DHCP infrastructures or Intranet firewalls.
   <br/><br/>
-  In late 2000 I started working for IBM as an IT Architect. 
+  In late 2000 I decided to start working for IBM as an IT Architect. 
   I have driven data centre design, network design, security design, Virtualization design, and systems management. 
   Amongst other things I have worked with international teams to further Linux on z, data centre design, firewall design, virtualization, and IDS design. 
   I have lead teams, managed projects and supervised implementations across a wide range of projects and technical platforms as well as taking the occasional deep dive into topics like penetration testing or data analysis.

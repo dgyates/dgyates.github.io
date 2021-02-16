@@ -233,6 +233,9 @@ acclaim:
     - title: open source contrib
       badgeId: 98366233-e331-4eb1-a9bc-f5b8baef4cbf
       issuedBy: IBM
+    - title: open source committer
+      badgeId: b414d87d-85c2-4e79-8163-863494a71b2f
+      issuedBy: IBM
     - title: na
       badgeId: 2db8b10a-be11-48ea-82ae-2a84b441e63a
       issuedBy: na

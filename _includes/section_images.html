@@ -1,0 +1,17 @@
+{% if site.status %}
+	<div id="statusBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1 id="images-title">{{site.images.title}}</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="imagesBlurb">
+				<strong>{{site.images.overall}}</strong>
+						<div id="images">
+			{% for section in site.images.images %}
+				<span class="label label-info label-padded"> {{image}} </span> &nbsp;
+			{% endfor %}
+		</div>
+			</div>
+		</div>
+	</div>
+{% endif %}

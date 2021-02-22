@@ -380,7 +380,12 @@ publications:
       Sean Donnellan<br/>
       Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. <br/>
       Would be called cloud today.
-
+  - publication:
+    title: 
+    ID: 2014-Jan-02,IP.com Disclosure Number IPCOM000233937D 
+    abstract: |
+      Disclosed is a method to combine firewall clustering with FabricPath to overcome asymmetric routing, ingress path optimization, and Spanning Tree Protocol (STP) problems. This unique design provides a consistent security layer across more than two physical sites working in a stretched data center model.
+      
 #adding to the templates
 projects:
   - project:

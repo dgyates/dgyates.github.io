@@ -227,9 +227,9 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - donnels/donnels.github.io
- - donnels/vacuumpreamp
-
+  - donnels/donnels.github.io
+  - donnels/vacuumpreamp
+  - donnels/waveshareoled
 #test acclaim section
 acclaim:
    profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53

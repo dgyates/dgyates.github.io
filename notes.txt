@@ -6,7 +6,7 @@ tollcollect RFP
 
 leading external resources in projects (firewall looking glass, DC tooling)
 
-Principal voting member of global infrastructure governance board
+ 
 
 resposibility to others
 

@@ -324,6 +324,14 @@ additionalinformation:
       In the last few years I have built an extensive set of tools including graph databses and visulaization tools. 
       Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
       Including Airflow checking and automated interfaces to vendor DBs.
+  - title: IPv6 Planning
+    text: |
+      In the past years I have been involved in a number of IPv6 projects ranging from simple, Internet connectivity,
+      to complex, Enterprise planning reports to the IBM board. 
+      I worked as a lead architect in the planning phase for IBM's migration to IPv6. 
+      I also worked as an architect for some of the address space planning for the IBM Global Shared Network Infrastructure. 
+      In addition I also drove the planning for the IPv6 single and dual stack for the CMS cloud Infrastructure, 
+      which was no implemented and instead has flowed into other internal infrastructure architectures.
   - title: Development Control 
     text: |
       I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 

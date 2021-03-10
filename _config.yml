@@ -416,7 +416,7 @@ projects:
   - project: 
     period: 06/2013 - To date
     duration: 92 months
-    cleintType: Large technology corporation
+    clientType: IBM infrastructure
     codename: EMEA Technical Design Authority
     description: |
       Perform architecture reviews,<br/> 
@@ -437,7 +437,7 @@ projects:
   - project:
     period: 01/2011 - 06/2013
     duration: 30 months
-    clientType: Large Technology Corporation
+    clientType: IBM infrastructure
     codename: GTS_SSA_(Sean Donnellan)
     description: |
       Develop, document secure, available, 
@@ -460,7 +460,7 @@ projects:
   - project:
     period: 02/2009 - 01/2011
     duration: 24 months
-    ClientType: IBM Global Technology Services
+    clientType: IBM Global Technology Services
     codename: EMEA Virtualization Wave 2
     description: |
       Develop and document secure, available, 
@@ -486,7 +486,7 @@ projects:
   - project:
     period: 02/2007 - 03/2009
     duration: 26 months
-    clientType: IT Service Delivery
+    clientType: IBM IT Service Delivery
     codename: GSNI Migration
     description: |
       Deploy and transform a new network architecture for the data centres GSNI Schweinfurt and Ehningen.
@@ -500,7 +500,7 @@ projects:
   - project:
     period: 07/2006 - 08/2007
     duration: 14 months
-    cleintType: IT Service Delivery
+    clientType: IBM IT Service Delivery
     codename: Advanced Power Virtualization
     description: |
       Design and gain internal certification for a virtualized system P IT delivery platform to replace legacy system P environments. 
@@ -616,7 +616,7 @@ projects:
   - project:
     period: 07/2003 - 02/2004
     duration: 8 months
-    clientType: Multinational Industrial
+    clientType: IBM WAN infrastructure
     codename: Nexagent Evaluation
     description: |
       Evaluate security and network design of Nexagent carrier peering technology.
@@ -664,7 +664,7 @@ projects:
   - project:
     period: 09/2001 - 03/2002
     duration: 7 months
-    clientType: Development Laboratory
+    clientType: IBM Development Laboratory
     codename: Linux on 390 (Mainframe) Test
     description: |
       Test implementations of Linux on IBM 390 architectures, 
@@ -680,7 +680,7 @@ projects:
   - project:
     period: 03/2001 - 11/2001
     duration: 9 months
-    clientType: Web Hosting Company
+    clientType: IBM Web Hosting
     codename: IDS Probe
     description: |
       Design and implement a Network Intrusion Detection System (IDS) probe for the Universal Web Hosting Server Farm (USF V3) in Frankfurt.
@@ -708,7 +708,7 @@ projects:
   - project:
     period: 10/2000 - 12/2002
     duration: 27 months
-    clientType: Web Hosting Company
+    clientType: IBM Web Hosting
     codename: IBM e-business Hosting Services
     role: IT Architect
     description: | 
@@ -732,7 +732,7 @@ projects:
     period: 08/1998 - 12/1998
     duration: 5 months
     role: Senior systems Engineer
-    clientType: Multinational Cement Manufacturer
+    clientType: Readymix
     codename: Cement
     description: |
       Improve the performance of the AIX based IT including IBM SP2, SSA disk systems, HACMP clusters, DB2 and SAP applications.
@@ -743,7 +743,7 @@ projects:
   - project:
     period: 12/1997 - 04/2000
     duration: 29 months
-    clientType: Consulting
+    clientType: SYSDAT Consulting
     codeName: Firewall Dept.
     role: Senior Systems Engineer
     description: |
@@ -755,7 +755,7 @@ projects:
   - project:
     period: 04/1997 - 12/1997
     duration: 9 months
-    clientType: Large Bank
+    clientType: Deutsche Bank
     codeName: GroGa
     role: System Engineer
     description: |

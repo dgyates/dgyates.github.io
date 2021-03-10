@@ -8,7 +8,7 @@ markdown: kramdown
 
 #images draft section like photo or qr or logo etc
 images: 
-  title: IBM
+  title:
   images: 
     - ./img/sean-qr.png
     - ./img/ibmlogo.svg

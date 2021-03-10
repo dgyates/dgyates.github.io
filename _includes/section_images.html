@@ -3,14 +3,10 @@
 		<div class="top-rounded-panel grey-bg">
 			<h1 id="images-title">{{site.images.title}}</h1>
 		</div>
-		<div class="content-rounded-panel-c">
-			<div id="imagesBlurb">
-				<div id="images">
-					{% for image in site.images.images %}
-						<img src="{{image}}" style="width: 20vw;"></br>
-					{% endfor %}
-				</div>
-			</div>
+		<div id="images" class="content-rounded-panel-c">
+			{% for image in site.images.images %}
+				<img src="{{image}}" style="width: 20vw;"></br>
+			{% endfor %}
 		</div>
 	</div>
 {% endif %}

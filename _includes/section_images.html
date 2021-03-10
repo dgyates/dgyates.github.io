@@ -3,9 +3,9 @@
 		<div class="top-rounded-panel grey-bg">
 			<h1 id="images-title">{{site.images.title}}</h1>
 		</div>
-		<div id="images" class="content-rounded-panel-img-c">
+		<div id="images" class="content-rounded-panel">
 			{% for image in site.images.images %}
-				<img src="{{image}}" style="width: 20vw;"></br>
+				<img src="{{image}}" class="content-img-c" style="width: 20vw;"></br>
 			{% endfor %}
 		</div>
 	</div>

@@ -409,8 +409,10 @@ projects:
     clientType: CV writing
     codename: nina simone
     role: Owner
-    description: Updating this CV right now if you see this.
-    contributions: Author, web design, Github integration of CV.
+    description: |
+      Projects between 2013/15 and 2021 are still to be added pending review by legal due to NDAs.
+      Projects included Network, Cloud, virtualization, and DC builds.
+    contributions: It Architect, Lead It Architect, Specialist (pen tests)
   - project: 
     period: 06/2013 - To date
     duration: 92 months

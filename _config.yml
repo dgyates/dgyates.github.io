@@ -9,7 +9,6 @@ markdown: kramdown
 #images draft section like photo or qr or logo etc
 images: 
   title: IBM
-  overall: vsagcrd
   images: 
     - ./img/sean-qr.png
 

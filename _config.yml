@@ -10,8 +10,9 @@ markdown: kramdown
 images: 
   title:
   images: 
-    - ./img/ibm-qr.png
     - ./img/ibmlogo.png
+    - ./img/ibm-qr.png
+
 
 #comment out this line when ready (no longer draft)
 status: 

@@ -240,9 +240,12 @@ github:
 acclaim:
    profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
    badges:
-    - title: na
+    - title: CISSP
+      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
+      issuedBy: ISC2
+    - title: Design thinking
       badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
-      issuedBy: na
+      issuedBy: IBM
     - title: open source contrib
       badgeId: 98366233-e331-4eb1-a9bc-f5b8baef4cbf
       issuedBy: IBM
@@ -254,9 +257,6 @@ acclaim:
       issuedBy: na
     - title: na
       badgeId: 804154e3-ecf2-441b-959f-487553975b0a
-      issuedBy: na
-    - title: na
-      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
       issuedBy: na
     - title: na
       badgeId: 093081a4-03a0-414d-ba99-7c760b5d522a

@@ -11,7 +11,7 @@ images:
   title:
   images: 
     - ./img/ibm-qr.png
-    - ./img/ibmlogo.svg
+    - ./img/ibmlogo.png
 
 #comment out this line when ready (no longer draft)
 status: 

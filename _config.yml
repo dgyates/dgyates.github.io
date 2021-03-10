@@ -11,6 +11,7 @@ images:
   title: IBM
   images: 
     - ./img/sean-qr.png
+    - ./img/ibmlogo.svg
 
 #comment out this line when ready (no longer draft)
 status: 

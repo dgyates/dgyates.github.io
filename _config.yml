@@ -8,7 +8,7 @@ markdown: kramdown
 
 #images draft section like photo or qr or logo etc
 images: 
-  title: Virtual Space Research
+  title: IBM
   images: 
     - ./img/sean-qr.png
 

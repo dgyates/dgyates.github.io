@@ -8,10 +8,9 @@ markdown: kramdown
 
 #images draft section like photo or qr or logo etc
 images: 
-  title: Virtual Space Research
+  title: IBM
   images: 
-    - logo
-    - qr
+    - ./img/sean-qr.png
 
 #comment out this line when ready (no longer draft)
 status: 
@@ -241,9 +240,12 @@ github:
 acclaim:
    profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
    badges:
-    - title: na
+    - title: CISSP
+      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
+      issuedBy: ISC2
+    - title: Design thinking
       badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
-      issuedBy: na
+      issuedBy: IBM
     - title: open source contrib
       badgeId: 98366233-e331-4eb1-a9bc-f5b8baef4cbf
       issuedBy: IBM
@@ -255,9 +257,6 @@ acclaim:
       issuedBy: na
     - title: na
       badgeId: 804154e3-ecf2-441b-959f-487553975b0a
-      issuedBy: na
-    - title: na
-      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
       issuedBy: na
     - title: na
       badgeId: 093081a4-03a0-414d-ba99-7c760b5d522a
@@ -324,6 +323,14 @@ additionalinformation:
       In the last few years I have built an extensive set of tools including graph databses and visulaization tools. 
       Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
       Including Airflow checking and automated interfaces to vendor DBs.
+  - title: IPv6 Planning
+    text: |
+      In the past years I have been involved in a number of IPv6 projects ranging from simple, Internet connectivity,
+      to complex, Enterprise planning reports to the IBM board. 
+      I worked as a lead architect in the planning phase for IBM's migration to IPv6. 
+      I also worked as an architect for some of the address space planning for the IBM Global Shared Network Infrastructure. 
+      In addition I also drove the planning for the IPv6 single and dual stack for the CMS cloud Infrastructure, 
+      which was no implemented and instead has flowed into other internal infrastructure architectures.
   - title: Development Control 
     text: |
       I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
@@ -359,7 +366,7 @@ patents:
   - patent:
     title: Deploy a secure customer domain in a virtualized multi-tenant environment 
     ID: DE112014002799T5
-    link: https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
+    link: https://patents.google.com/patent/DE112014002799T5/en
     abstract:  To provide a secure customer domain in a virtualized multi-tenant environment, a virtual machine (VM) is configured in a customer domain. A first, a second, and a third network interface (VNICs) are configured in the VM. The first VNIC has a first network address in a first address range for a customer domain and allows an application in the VM to access a second application in a second VM in the customer domain. The second VNIC allows a third application outside the customer domain to access the VM in the customer domain. The second VNIC is configured to utilize an address specification used by the server and the third application. The third VNIC allows access from the first application to a fourth application running outside the customer domain. The third VNIC is configured to use an address specification used by the server of the fourth application. 
  
 publications:
@@ -399,14 +406,17 @@ projects:
     period: 2021
     duration: 0 months
     clientType: CV writing
-    codename: nina simone
-    role: Owner
-    description: Updating this CV right now if you see this.
-    contributions: Author, web design, Github integration of CV.
+    codename: 42
+    role: Author/Web designer/Architect
+    description: |
+      Projects between 2013/15 and 2021 are still to be added pending review by legal due to NDAs.
+      Projects included Network, Cloud, virtualization, and DC builds.
+      Industrries included financial, internal, and a mixture of all IBM clients due to DC and cloud activities.
+    contributions: It Architect, Lead It Architect, Specialist (pen tests)
   - project: 
     period: 06/2013 - To date
     duration: 92 months
-    cleintType: Large technology corporation
+    clientType: IBM infrastructure
     codename: EMEA Technical Design Authority
     description: |
       Perform architecture reviews,<br/> 
@@ -427,7 +437,7 @@ projects:
   - project:
     period: 01/2011 - 06/2013
     duration: 30 months
-    clientType: Large Technology Corporation
+    clientType: IBM infrastructure
     codename: GTS_SSA_(Sean Donnellan)
     description: |
       Develop, document secure, available, 
@@ -450,7 +460,7 @@ projects:
   - project:
     period: 02/2009 - 01/2011
     duration: 24 months
-    ClientType: IBM Global Technology Services
+    clientType: IBM Global Technology Services
     codename: EMEA Virtualization Wave 2
     description: |
       Develop and document secure, available, 
@@ -476,7 +486,7 @@ projects:
   - project:
     period: 02/2007 - 03/2009
     duration: 26 months
-    clientType: IT Service Delivery
+    clientType: IBM IT Service Delivery
     codename: GSNI Migration
     description: |
       Deploy and transform a new network architecture for the data centres GSNI Schweinfurt and Ehningen.
@@ -490,7 +500,7 @@ projects:
   - project:
     period: 07/2006 - 08/2007
     duration: 14 months
-    cleintType: IT Service Delivery
+    clientType: IBM IT Service Delivery
     codename: Advanced Power Virtualization
     description: |
       Design and gain internal certification for a virtualized system P IT delivery platform to replace legacy system P environments. 
@@ -536,10 +546,13 @@ projects:
     clientType: Large Insurance
     codename: PoD Deployment
     description: |
-      Deployment of a dual data centre \ldblquote Universal Management Infrastructure\rdblquote  shared converged \ldblquote Point of Deployment\rdblquote . (UMI shared cPoD).
+      Deployment of a dual data centre Universal Management Infrastructure shared converged Point of Deployment. (UMI shared cPoD).
     role: Lead Network Architect
     contributions: |
-      Design of dual data centre option to cPoD design,<br/> Documentation of dual DC UMI PoD (ARC 317),<br/> Firewall flow documentation,<br/> Input into design of other dual DC PoDs being deployed.<br/> 
+      Design of dual data centre option to cPoD design,<br/> 
+      Documentation of dual DC UMI PoD (ARC 317),<br/> 
+      Firewall flow documentation,<br/> 
+      Input into design of other dual DC PoDs being deployed.<br/> 
   - project:
     period: 10/2004 - 12/2004
     duration: 3 months
@@ -606,7 +619,7 @@ projects:
   - project:
     period: 07/2003 - 02/2004
     duration: 8 months
-    clientType: Multinational Industrial
+    clientType: IBM WAN infrastructure
     codename: Nexagent Evaluation
     description: |
       Evaluate security and network design of Nexagent carrier peering technology.
@@ -654,7 +667,7 @@ projects:
   - project:
     period: 09/2001 - 03/2002
     duration: 7 months
-    clientType: Development Laboratory
+    clientType: IBM Development Laboratory
     codename: Linux on 390 (Mainframe) Test
     description: |
       Test implementations of Linux on IBM 390 architectures, 
@@ -670,7 +683,7 @@ projects:
   - project:
     period: 03/2001 - 11/2001
     duration: 9 months
-    clientType: Web Hosting Company
+    clientType: IBM Web Hosting
     codename: IDS Probe
     description: |
       Design and implement a Network Intrusion Detection System (IDS) probe for the Universal Web Hosting Server Farm (USF V3) in Frankfurt.
@@ -698,7 +711,7 @@ projects:
   - project:
     period: 10/2000 - 12/2002
     duration: 27 months
-    clientType: Web Hosting Company
+    clientType: IBM Web Hosting
     codename: IBM e-business Hosting Services
     role: IT Architect
     description: | 
@@ -722,7 +735,7 @@ projects:
     period: 08/1998 - 12/1998
     duration: 5 months
     role: Senior systems Engineer
-    clientType: Multinational Cement Manufacturer
+    clientType: Readymix
     codename: Cement
     description: |
       Improve the performance of the AIX based IT including IBM SP2, SSA disk systems, HACMP clusters, DB2 and SAP applications.
@@ -733,7 +746,7 @@ projects:
   - project:
     period: 12/1997 - 04/2000
     duration: 29 months
-    clientType: Consulting
+    clientType: SYSDAT Consulting
     codeName: Firewall Dept.
     role: Senior Systems Engineer
     description: |
@@ -745,7 +758,7 @@ projects:
   - project:
     period: 04/1997 - 12/1997
     duration: 9 months
-    clientType: Large Bank
+    clientType: Deutsche Bank
     codeName: GroGa
     role: System Engineer
     description: |

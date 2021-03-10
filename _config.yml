@@ -10,7 +10,7 @@ markdown: kramdown
 images: 
   title: Virtual Space Research
   images: 
-    - img/sean-qr.png
+    - ./img/sean-qr.png
 
 #comment out this line when ready (no longer draft)
 status: 

@@ -10,7 +10,7 @@ markdown: kramdown
 images: 
   title:
   images: 
-    - ./img/sean-qr.png
+    - ./img/ibm-qr.png
     - ./img/ibmlogo.svg
 
 #comment out this line when ready (no longer draft)

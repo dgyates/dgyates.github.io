@@ -547,10 +547,13 @@ projects:
     clientType: Large Insurance
     codename: PoD Deployment
     description: |
-      Deployment of a dual data centre \ldblquote Universal Management Infrastructure\rdblquote  shared converged \ldblquote Point of Deployment\rdblquote . (UMI shared cPoD).
+      Deployment of a dual data centre Universal Management Infrastructure shared converged Point of Deployment. (UMI shared cPoD).
     role: Lead Network Architect
     contributions: |
-      Design of dual data centre option to cPoD design,<br/> Documentation of dual DC UMI PoD (ARC 317),<br/> Firewall flow documentation,<br/> Input into design of other dual DC PoDs being deployed.<br/> 
+      Design of dual data centre option to cPoD design,<br/> 
+      Documentation of dual DC UMI PoD (ARC 317),<br/> 
+      Firewall flow documentation,<br/> 
+      Input into design of other dual DC PoDs being deployed.<br/> 
   - project:
     period: 10/2004 - 12/2004
     duration: 3 months

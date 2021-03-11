@@ -1,0 +1,831 @@
+# Site settings
+title: Sean Donnellan
+twitter_username: donnellan_sean
+name: Sean Donnellan
+
+# Build settings
+markdown: kramdown
+
+#images draft section like photo or qr or logo etc
+images: 
+  title:
+  images: 
+    - ./img/ibmlogo.png
+    - ./img/ibm-qr.png
+
+
+#comment out this line when ready (no longer draft)
+status: 
+  overall: --- Draft ---
+  sections: 
+    - Intro - Draft 91%
+    - Employer history - requires content review 66%
+    - GitHub - need to add content
+    - Projects - contents 75%
+    - additional info - content max 60%
+
+
+#Links that will appear in the navbar
+primarylinks:
+  - title: GitHub
+    url: https://github.com/donnels
+  - title: LinkedIn
+    url: https://de.linkedin.com/in/sean-donnellan-03601b4a
+  - title: Acclaim
+    url: https://www.youracclaim.com/users/sean-donnellan.faa56e53
+  - title: Research and publications
+    url: https://www.researchgate.net/profile/Sean_Donnellan3/research
+
+# Introduction section
+intro: |
+  I am an IT architect with 25+ years experience and passion working in technology. 
+  I have primarily had the responsibility of working as an IT infrastructure architect and have also led teams and managed projects.
+  I have worked across a broad range of technologies 
+  thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J and data science.
+  As well as spending a reasonable amount of time building Cloud Network Infrastructure. I am a principal and voting member of the IBM Global Shared Network Inrastructure architecture governance board.
+  <br/><br/>
+  I have had lead roles in large scale data center migration, management, 
+  and governance roles across Europe and globally.
+  <br/><br/>
+  I have worked in the IT industry since 1995. 
+  I started as a specialist for UNIX and networking. 
+  I quickly moved on to parallel computing, enterprise firewall design, and automation, as an architect and consultant. 
+  Initially working for an IBM business partner I was involved in both large and small projects across a wide spectrum. 
+  Activities included planning and providing training to customers, architecture, consulting, delivery of architectures, automation, team lead, and last level support for more complex problems. 
+  Notable achievements are over 5 Extranet firewalls for large corporations and SMB aswell as automated HA solutions before 2000.
+  <br/><br/>
+  In 2000 I left the business partner to start up my own consulting company. 
+  During which time I developed and used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
+  Other achievments during this time are customer aquisition and numerous small projects such as highly available DHCP infrastructures or Intranet firewalls.
+  <br/><br/>
+  In late 2000 I decided to start working for IBM in the official job role of an IT Architect.
+  I have since used the possibilities I was given to expand my knowledge and my network and to become one of the go to people for 
+  infrastucture related questions within IBM globally. 
+  I have driven data centre design, network design, security design, Virtualization design, and systems management. 
+  Amongst other things I have worked with international teams to further Linux on z, data centre design, firewall design, virtualization, and IDS design. 
+  I have lead teams, managed projects and supervised implementations across a wide range of projects and technical platforms as well as taking the occasional deep dive into topics like penetration testing or data analysis.
+  </br>
+  My wants - </br>
+  - work with a young team</br>
+  - work in an innovative environment</br>
+  - pass experience on </br>
+  - simple processes </br>
+  - work efficiently and sustainably. </br>
+ 
+#Buzzword Languages
+languages:
+  - Bilingual
+  - English
+  - German
+
+#Buzzword skills
+skills:
+ - IT Architect
+ - IT Network Architect
+ - IT Security Architect
+ - IT Infrastructure Architect
+ - Innovation
+ - New Technologies
+ - Analytical thinking
+ - Deep technological understanding
+ - Cross technology thinking
+ - Teaching
+ - Wild duck
+ - Mentoring
+ - Guidance
+ - Governance
+ - Trusted advisor
+ - Network segregation
+ - Weakness analysis
+ - Threat mitigation
+ - Data Center Architecture
+ - security governance
+ - security policy
+ - automated documentation
+ - CISSP
+ - AIX Advanced Technical Expert
+ - Linux
+ - FOSS
+ - NEO4J
+ - MQTT
+ - IOT
+ - Juniper
+ - Jupyter
+ - Cisco
+ - IBM Cloud
+ - IBM
+ - travis
+ - docker
+ - Mentor
+ - Teacher
+ - Project management
+ - Team lead
+ - python
+ - shell scripting
+ - docker compose
+ - openscad
+ - git
+ - UML
+ - CI/CD
+ - Raspberry Pi
+ - ESP8266/ESP32
+ - Arduino
+ - IPv6
+ - IPv4
+ - penetration testing
+ - slack
+ - agile
+ - ansible
+ - Cloud Computing
+ - Risk Management
+ - Data Center Relocation
+ - Virtualization
+ - Network Security
+ - Virtual Teams
+ - Data Center
+ - IT Service Management
+ - ITIL
+ - IT Management
+ - Disaster Recovery
+ - Patents
+ - Solution Architecture
+ - Enterprise Architecture
+ - High Availability
+ - Storage Area Networks
+ - VMware 
+ - Firewalls
+ - 3D printing (FDM)
+ - Laser cutting
+
+#Employers and summary Work experience
+roles:
+ - title: IT infrastructure architect
+   start: 2000
+   end: Ongoing
+   employer: IBM
+   description: |
+    10/2000 - To date <br/>
+    IBM, Germany <br/>
+    IT Architect <br/>
+    Achievements- <br/>
+     Patent application on a Method and system to enable and accelerate live and near-live migration of virtual machines and their associated storage across networks <br/>
+      and numerous further patent applications and granted patents,  <br/>
+       Author of Redbook and redpiece on iDataPlex, <br/>
+       On Demand Data Center Services (ODCS)- Universal Mgmt. infrastructure (UMI) Dual data center design, <br/>
+       Firewall looking glass design, <br/>
+       Universal web hosting server farm (USF) firewall mgmt. and improvement, <br/>
+       Extranet design, <br/>
+       Enterprise data centre firewall placement, <br/>
+       Cloud Virtualization Design and security. <br/> 
+    Roles- IT Architect  <br/>
+    Managers- Reiner Lauster from 15/10/2000 to 28/2/2004 <br/>
+    Mark Dietrich from 1/3/2004 to 31/8/2004 <br/>
+    Peter John from 1/9/2004 to 31/8/2006 <br/>
+    Joerg Hess from 1/9/2006 to 30/6/2007 <br/>
+    Peter John from 1/7/2007 to 28/4/2009 <br/>
+    Antonio Aliatakis 1/5/2009 to 31/12/2009 <br/>
+    Nicola Nicolic 1/1/2010 to 31/1/2010 <br/>
+    Gerhard Eikmeier 1/2/2010 and on.
+ - title: System Engineer
+   start: 2000
+   end: 2000
+   employer: Self Employed
+   description: |
+    04/2000 - 10/2000 <br/>
+    Self Employed Consultant, Germany <br/>
+    Freelance IT Security and Network Consultant <br/>
+    Achievements- Diverse customer projects and firewalls. <br/>
+    Roles- Consultant.
+ - title: Senior Engineer
+   start: 1995
+   end: 2000
+   employer: Sysdat GmbH
+   description: |
+    02/1995 - 04/2000 <br/>
+    SYSDAT GmbH, Germany <br/>
+    Senior Consultant IT Security <br/>
+    Achievements- <br/>
+     Corporate firewall design, <br/>
+     Unix Automation,  <br/>
+     High Availability, <br/>
+     Creation of Firewall Dept. <br/>
+    Roles- <br/>
+     Head of firewall team, <br/>
+      Consultant, <br/>
+      3rd level support for- AIX/UNIX, <br/>
+      Internet protocol (IP), <br/>
+      and Internet related issues. <br/>
+    Manager- Michael Brueckner.
+ - title: Translator
+   start: 1991
+   end: 1995
+   employer: Self employed
+   description: |
+    German English and English German translations related to the automotive industry.
+
+#Education is required
+education:
+ - level: Leaving Certificate
+   date: 1990
+   subject: Sutton Park
+   school: Sutton Park School Howth Dublin Ireland
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#List of interesting Github repo/projects to include - optional
+github:
+  - donnels/donnels.github.io
+  - donnels/vacuumpreamp
+  - donnels/waveshareoled
+#test acclaim section
+acclaim:
+   profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
+   badges:
+    - title: CISSP
+      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
+      issuedBy: ISC2
+    - title: Design thinking
+      badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
+      issuedBy: IBM
+    - title: open source contrib
+      badgeId: 98366233-e331-4eb1-a9bc-f5b8baef4cbf
+      issuedBy: IBM
+    - title: open source committer
+      badgeId: b414d87d-85c2-4e79-8163-863494a71b2f
+      issuedBy: IBM
+    - title: na
+      badgeId: 2db8b10a-be11-48ea-82ae-2a84b441e63a
+      issuedBy: na
+    - title: na
+      badgeId: 804154e3-ecf2-441b-959f-487553975b0a
+      issuedBy: na
+    - title: na
+      badgeId: 093081a4-03a0-414d-ba99-7c760b5d522a
+      issuedBy: na
+    - title: na
+      badgeId: 34ba89a3-4824-41dd-8133-35aea4119714
+      issuedBy: na
+    - title: na
+      badgeId: 24a9a8e3-12ce-4d12-8480-f0536077a033
+      issuedBy: na
+    - title: na
+      badgeId: 0552e76a-e34d-4af3-b8a8-d16486bebad5
+      issuedBy: na
+    - title: na
+      badgeId: 8f0e3f96-07c9-4e46-aca1-d57d5fdecbb2
+      issuedBy: na
+    - title: na
+      badgeId: 45421933-b8d3-47aa-90ef-171cacdfbb9f
+      issuedBy: na
+    - title: na
+      badgeId: ed1628c5-4f68-4e87-8eb7-4faaa67e7be5
+      issuedBy: na
+    - title: na
+      badgeId: 23f12439-9421-499a-8db5-3e77a56916cd
+      issuedBy: na
+    - title: na
+      badgeId: 53a11686-0191-4d6b-97a2-f6f162ae4792
+      issuedBy: na
+    - title: na
+      badgeId: 3407f901-8e09-47c3-afe4-25f6ad5e278f
+      issuedBy: na
+    - title: na
+      badgeId: d49b429f-ac7a-42c7-99e1-8f04ec3c590e
+      issuedBy: na
+    - title: na
+      badgeId: 2379495f-dfcc-4617-802f-3743c161910e
+      issuedBy: na
+    - title: na
+      badgeId: 9641d549-4c8b-4cc6-a585-cfef3ad347a6
+      issuedBy: na
+    - title: na
+      badgeId: d7db0e2a-670a-4ce7-bcda-3b68eacf31b3
+      issuedBy: na
+    - title: na
+      badgeId: 8453e0d3-b9ae-4156-81bd-bb37308266b2
+      issuedBy: na
+    - title: na
+      badgeId: 37215f2d-4209-44fc-ac1f-74d7a3f82b15
+      issuedBy: na
+    - title: na
+      badgeId: 6b987988-3e18-45d3-8349-b1543d197678
+      issuedBy: na
+
+#new additional info section with headers
+additionalinformation:
+  - title: Cloud platforms
+    text: |
+      I have primarily used IBM/CMS and IBM/Softlayer. 
+      I have experience setting up, configuring and running the network intra- and inter-connectivity and security. 
+      From underlay, through LAN and WAN, to overlay.
+  - title: Data analysis
+    text: |
+      Through experience with multiple DC builds, relocations, merges, out and in-sourcing, and closures, I have learned the importance of having good data. 
+      In the last few years I have built an extensive set of tools including graph databses and visulaization tools. 
+      Examples are cabling analysis graphs, data based 2 and 3d Rack visualisations, Security policy graphs, network analysis graphs, and general data analysis, transformation, integration, import and export tools.
+      Including Airflow checking and automated interfaces to vendor DBs.
+  - title: IPv6 Planning
+    text: |
+      In the past years I have been involved in a number of IPv6 projects ranging from simple, Internet connectivity,
+      to complex, Enterprise planning reports to the IBM board. 
+      I worked as a lead architect in the planning phase for IBM's migration to IPv6. 
+      I also worked as an architect for some of the address space planning for the IBM Global Shared Network Infrastructure. 
+      In addition I also drove the planning for the IPv6 single and dual stack for the CMS cloud Infrastructure, 
+      which was no implemented and instead has flowed into other internal infrastructure architectures.
+  - title: Development Control 
+    text: |
+      I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
+      I have experience with an array of testing tools and CI/CD technologies and methods.
+  - title: Internet Of Things (IOT)
+    text: |
+      I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including MQTT, NEO4J, a selection of micro controllers (esp8266, esp32, arduino), Raspberry Pi, KNX/EIB, LORAWAN, ISM Band communications, and many other related topics.
+  - title: Diploma thesis supervisor
+    text: |
+      Supervised two Bsc. diploma thesis <br/>
+      4Q 2004 - Logfile Analysis, <br/>
+      1Q 2002 - Network Intrusion Detection System.
+
+#patents
+patents:
+  - patent:
+    title: Enablement and acceleration of live and near-live migration of virtual machines and their associated storage across networks 
+    ID: US8429651B2
+    link: https://patents.google.com/patent/US8429651B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
+    abstract: |
+      A virtual machine is migrated between a source cloud and a destination cloud. A temporary storage is mounted to a partition management firmware of the source cloud and to a partition management firmware of the destination cloud. A first storage location migration migrates the virtual machine from the source cloud to the at least one temporary storage. A second storage location migration migrates the virtual machine from the at least one temporary storage to final destination storage of the destination cloud. The temporary storage is then unmounted from the partition management firmware of the source cloud and from the partition management firmware of the destination cloud.
+  - patent:
+    title: Communications between virtual machines that have been migrated 
+    ID: US8448171B2
+    link: https://patents.google.com/patent/US8448171B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
+    abstract: |
+      A method, apparatus, and computer program product for managing communications between a plurality of applications are presented. A determination is made as to whether an address in a message is a prior address for a second application in the plurality of applications in response to receiving a message from a first application in the plurality of applications. The message is sent onto a virtual network configured to handle prior addresses for the plurality of applications in response to the address in the message being the prior address for the second application being located on another virtual machine from the first application.
+  - patent:
+    title: Method and apparatus for providing a test network as an IP accessible cloud service
+    ID: US9286103B2
+    link: https://patents.google.com/patent/US9286103B2/en?q=inventor;sean&inventor=donnellan&oq=inventor;sean+donnellan
+    abstract: A method and structure for a cloud service includes an API (application programming interface) as tangibly embodied in a set of computer-executable instructions and selectively executable on a computer on a network. The API provides a user interface for a cloud environment comprising one or more virtual machines to be selectively instantiated on at least one computer in the network upon a user request. A library is accessible via the API, the library providing definitions of components available to be instantiated in the cloud environment. The API automatically instantiates an image of a virtual network of components, as defined by a user input request and provides at least one cloud portal providing the user an access to exercise the instantiated virtual network image.
+  - patent:
+    title: Deploy a secure customer domain in a virtualized multi-tenant environment 
+    ID: DE112014002799T5
+    link: https://patents.google.com/patent/DE112014002799T5/en
+    abstract:  To provide a secure customer domain in a virtualized multi-tenant environment, a virtual machine (VM) is configured in a customer domain. A first, a second, and a third network interface (VNICs) are configured in the VM. The first VNIC has a first network address in a first address range for a customer domain and allows an application in the VM to access a second application in a second VM in the customer domain. The second VNIC allows a third application outside the customer domain to access the VM in the customer domain. The second VNIC is configured to utilize an address specification used by the server and the third application. The third VNIC allows access from the first application to a fourth application running outside the customer domain. The third VNIC is configured to use an address specification used by the server of the fourth application. 
+ 
+publications:
+  - publication:
+    title: Implementing an IBM System x iDataPlex Solution
+    ID: IBM Technical Support Organization, 2009, ISBN/ISSN 0738432520
+    link: https://www-2000.ibm.com/partnerworld/ap/kr/redbook_6.pdf
+    abstract: |
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu.<br/>
+      in: IBM Redbooks > Infrastructure Solutions.
+      Describes scale out server deployments for both traditional and new deployment modes. 
+      Includes designs of alternative cooling methods, and 40 foot container deployments etc.
+  - publication:
+    title: Building an Efficient Data Center with IBM iDataPlex
+    ID: IBM Technical Support Organization, 2008, REDP-4418-00
+    link: https://lenovopress.com/redp4418
+    abstract: |
+      David Watts, Srihari Angaluri, Martin Bachmaier, Sean Donnellan, Duncan Furniss, Kevin Xu. <br/>  
+      in: IBM Redbooks > Infrastructure Solutions
+      Describes scale out server deployments for both traditional and new deployment modes. 
+  - publication:
+    title: Dual Data Center - Shared converged PoD
+    ID: IBM, 2005, Internal IBM ICM AssetWeb - e-business Infrastructure & Solutions
+    abstract: |
+      Sean Donnellan<br/>
+      Solution architecture for automated, multi tenant, multi tier, dual site, highly available, data centre. <br/>
+      Would be called cloud today.
+  - publication:
+    title: Firewall clustering with FabricPath
+    ID: 2014-Jan-02,IP.com Disclosure Number IPCOM000233937D 
+    abstract: |
+      Disclosed is a method to combine firewall clustering with FabricPath to overcome asymmetric routing, ingress path optimization, and Spanning Tree Protocol (STP) problems. This unique design provides a consistent security layer across more than two physical sites working in a stretched data center model.
+      
+#adding to the templates
+projects:
+  - project:
+    period: 2021
+    duration: 0 months
+    clientType: CV writing
+    codename: 42
+    role: Author/Web designer/Architect
+    description: |
+      Projects between 2013/15 and 2021 are still to be added pending review by legal due to NDAs.
+      Projects included Network, Cloud, virtualization, and DC builds.
+      Industrries included financial, internal, and a mixture of all IBM clients due to DC and cloud activities.
+    contributions: It Architect, Lead It Architect, Specialist (pen tests)
+  - project: 
+    period: 06/2013 - To date
+    duration: 92 months
+    clientType: IBM infrastructure
+    codename: EMEA Technical Design Authority
+    description: |
+      Perform architecture reviews,<br/> 
+      set standards,<br/> 
+      Assist engagement teams,<br/> 
+      Set strategy,<br/> 
+      Responsible for interfacing with global teams,<br/> 
+      Provide gorvernance to IMT teams.
+    role: IT Architect
+    contributions: 
+      Active participation in the global GSNI ARB, NS-ACB, ant other boards,<br/> 
+      Led device certifications for cloud infrastructure,<br/> 
+      Led the Pureflex technical network taskforce,<br/> 
+      Authored strategy papers,<br/> 
+      Led the firmware fix for the entire IBM network switch range,<br/> 
+      Created architecture templates and working examples,<br/> 
+      Performed as lead network architect in engagements.
+  - project:
+    period: 01/2011 - 06/2013
+    duration: 30 months
+    clientType: IBM infrastructure
+    codename: GTS_SSA_(Sean Donnellan)
+    description: |
+      Develop, document secure, available, 
+      and flexible Networking and computing infrastructure to host multiple tenants and/or tiers.
+    role: IT Architect
+    contributions: |
+      Planned server network integration tests,<br/> Created architecture documents,<br/> co-authered and reviewed Network architectural documents (ARC 317),<br/> Managed and coordinated network tests,<br/> co-authored and reviewed infrastructure tests,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during test phases.
+  - project:
+    period: 07/2009 - 12/2009
+    duration: 6 months
+    clientType: retail
+    codename: Data Center Build Planet
+    description: |
+      Develop, document and deploy secure, available, 
+      and flexible computing infrastructure to host client. 
+      In general provide Dynamic on premise DC Infrastructure for client. 
+    role: Lead Network Architect
+    contributions: |
+      \rdblquote IT-Architect\rdblquote :<br/> Planned customer server migrations,<br/> Created architecture documents,<br/> Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> Managed and coordinated customer migrations,<br/> Managed and coordinated infrastructure migrations,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during migration phases.
+  - project:
+    period: 02/2009 - 01/2011
+    duration: 24 months
+    clientType: IBM Global Technology Services
+    codename: EMEA Virtualization Wave 2
+    description: |
+      Develop and document secure, available, 
+      and flexible computing infrastructure to host multiple customers on pooled hardware. 
+      In general provide Dynamic Infrastructure for IBM owned data centres.
+    role: IT Infrastructure Architect
+    contributions: |
+      Prepared and achieved internal security certification for multi-tennant virtualization.<br/> 
+      Prepared requirements documents for network providers includng SLA, technical requirements, 
+      strategic future requirements, and automation requirements.
+  - project:
+    period: 05/2008 - 06/2008
+    duration: 2 months
+    clientType: IBM Technical Support Organization
+    codename: iDataPlex Redbook, Redpiece, and SAPR Guide
+    description: |
+      Write a Redbook, a Redpiece, and a SAPR guide for iDataPlex.
+    role: Author
+    contributions: |
+      Co-authored all three documents.<br/>
+      Implementing an IBM System x iDataPlex Solution (ISBN 0738432520),<br/> 
+      Building an Efficient Data Center with IBM iDataPlex (IBM Form Number REDP-4418-00)
+  - project:
+    period: 02/2007 - 03/2009
+    duration: 26 months
+    clientType: IBM IT Service Delivery
+    codename: GSNI Migration
+    description: |
+      Deploy and transform a new network architecture for the data centres GSNI Schweinfurt and Ehningen.
+    role: IT Architect
+    contributions: |
+      Performed GAP analysis of new GSNI architecture and existing server implementations,<br/> 
+      Planned customer server migrations,<br/> 
+      Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> 
+      Managed and coordinated customer migrations,<br/> 
+      Managed and coordinated infrastructure migrations.
+  - project:
+    period: 07/2006 - 08/2007
+    duration: 14 months
+    clientType: IBM IT Service Delivery
+    codename: Advanced Power Virtualization
+    description: |
+      Design and gain internal certification for a virtualized system P IT delivery platform to replace legacy system P environments. 
+    role: IT Architect
+    contributions: |
+      Created architecture documents,<br/> 
+      Created certification documents,<br/> 
+      Documented LAN Design,<br/> 
+      Managed security certification process.
+  - project: 
+    period: 10/2005 - 07/2006
+    duration: 10 months
+    clientType: Large Insurance
+    codename: Blue Danube Boarding
+    description: |
+      Customer boarding to new dual data centre.
+    role: 
+      Lead Network Architect
+    contributions: |
+      Architecture updates,<br/> 
+      Trouble shooting,<br/> 
+      Firewall flows,<br/> 
+      General network and Universal Management Infrastructure (UMI) integration questions.
+  - project:
+    period: 04/2005 - 01/2006
+    duration: 10 months
+    clientType: Web Hosting Company
+    codename: GENO Move
+    description: |
+      Move the universal web hosting server farm (USF) from Frankfurt to Ehningen. 
+      All customers and infrastructure to be moved.
+    role: IT Architect
+    contributions: |
+      Documented existing back end connexions,<br/> 
+      Planned move of back end connexions,<br/> 
+      Provided advice during move,<br/> 
+      Coordinated firewall changes,<br/> 
+      Provided last level support for back end move,<br/> 
+      Coordinated third parties.
+  - project:
+    period: 11/2004 - 09/2005
+    duration: 11 months
+    clientType: Large Insurance
+    codename: PoD Deployment
+    description: |
+      Deployment of a dual data centre Universal Management Infrastructure shared converged Point of Deployment. (UMI shared cPoD).
+    role: Lead Network Architect
+    contributions: |
+      Design of dual data centre option to cPoD design,<br/> 
+      Documentation of dual DC UMI PoD (ARC 317),<br/> 
+      Firewall flow documentation,<br/> 
+      Input into design of other dual DC PoDs being deployed.<br/> 
+  - project:
+    period: 10/2004 - 12/2004
+    duration: 3 months
+    clientType: Multinational Industrial
+    codename: Firewall Looking Glass for UMI PoD Firewalls
+    description: 
+      Create a mechanism to allow a customer to view customer related parts of firewall configurations,
+       rules, and log files without viewing IBM related rules and log file entries.
+    role: Lead Architect
+    contributions: 
+      Designed,<br/> 
+      Implemented,<br/> 
+      And documented the system.<br/> 
+      Directed the software developers,<br/> 
+      And coordinated the integration.
+  - project:
+    period: 09/2004 - 10/2004
+    duration: 2 months
+    clientType: Airline
+    codename: Aerodyn
+    description: | 
+      Customer engagement. 
+      eBusiness Hosting engagement of large customer, 
+      Data centre redesign.
+    role: IT Network and Security Architect
+    contributions: |
+      Gathered information about system dependancies,<br/> 
+      Created architectural decisions documentation for DC changes,<br/> 
+      Assisted engagement team,<br/> 
+      Interacted directly with the customer.
+  - project:
+    period: 06/2004 - 12/2004
+    duration: 7 months
+    clientType: Multinational Industrial
+    codename: UMI PoD Pilot
+    description: |
+      Pilot a UMI PoD deployment for the customer.<br/> 
+    role: IT Network Architect
+    contributions: |
+      Co-author of Technical Solution Design document including firewall application flows,<br/>
+      Network design,<br/> 
+      Node placement,<br/> 
+      etc. 
+  - project:
+    period: 07/2003 - 10/2004
+    duration: 16 months
+    clientType: Multinational Industrial
+    codename: Yellowstone SNI Connexions
+    description: |
+      Part of the customer outsourcing project.<br/> 
+      Document existing IBM Shared Network Infrastructure (SNI) connexions,<br/>
+      Design, Implement, And test new SNI connexions,<br/> 
+      Ensure security policies are adhered to.
+    role: IT Architect
+    contributions: |
+      Gathered customer requirements,<br/> 
+      Provided advice to other teams regarding contract,<br/> 
+      Designed new SNI connexions between customer and IBM,<br/> 
+      Documented new connexions,<br/> 
+      Documented existing connexions,<br/> 
+      Documented access methods,<br/> 
+      Provided security advice to other sub projects,<br/> 
+      Coordinated Customer to IBM email (Notes) connexions.
+  - project:
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: IBM WAN infrastructure
+    codename: Nexagent Evaluation
+    description: |
+      Evaluate security and network design of Nexagent carrier peering technology.
+    role: IT Architect
+    contributions: | 
+      Planned tests for Nexagent integration, <br/>
+      Evaluated Nexagent design papers, <br/>
+      Inspected Nexagent demonstration laboratory, <br/>
+      Provided guidance to C level mamangement.
+  - project:
+    period: 07/2003 - 02/2004
+    duration: 8 months
+    clientType: Multinational Industrial
+    codename: Firewall Management Design
+    description: |
+      Redesign the Customers Firewall Management system.
+    role: IT Architect
+    contributions: |
+      Provided initial design, <br/>
+      Documented firewall management design, <br/>
+      Was direct link to the customer.
+  - project:
+    period: 01/2003 - 05/2003
+    duration: 5 months
+    clientTypz: Large Bank
+    codename: Symphony
+    description: |
+      Answer Request for Proposal (RFP) from customer.
+    role: IT Security Architect, TSM 
+    contributions: |
+      Provided firewall and Intrusion Detection System (IDS) architecture to proposal.
+  - project:
+    period: 01/2003 - 06/2003
+    duration: 6 months
+    clientType: Large Insurance Company
+    codename: Privacy Firewall
+    description: | 
+      Evaluate the concept of a filter system for customer data sent across IBM 3270 (mainframe) connexions.
+    role: IT Security Architect 
+    contributions: |
+      Provided advice during prototype development, <br/>
+      Developed test scenario for evaluation, <br/>
+      Supervised initial tests, <br/>
+      Counselled Project Manager and lead IT Architect.
+  - project:
+    period: 09/2001 - 03/2002
+    duration: 7 months
+    clientType: IBM Development Laboratory
+    codename: Linux on 390 (Mainframe) Test
+    description: |
+      Test implementations of Linux on IBM 390 architectures, 
+      Automate testing tasks, 
+      Provide assistance to linux developers.
+    role: IT Architect, System Engineer
+    contributions: |
+      Tested Linux on 390 systems in Virtual Machine (zVM) environments, 
+      Found most bugs during initial automation testing,
+      Provided driver stability feedback, 
+      Automated Linux installation and provisioning, 
+      Worked with Linux developers.
+  - project:
+    period: 03/2001 - 11/2001
+    duration: 9 months
+    clientType: IBM Web Hosting
+    codename: IDS Probe
+    description: |
+      Design and implement a Network Intrusion Detection System (IDS) probe for the Universal Web Hosting Server Farm (USF V3) in Frankfurt.
+    role: Project Manager, IT Architect
+    contributions: 
+      Provided initial design for probe placement, 
+      Directed development of (SNORT based) self installing Linux IDS probe, 
+      Designed test environment for IDS probe, 
+      Provided hardening for IDS probe, 
+      Directed packaging of IDS probe software, 
+      Directed installation of IDS probe in Frankfurt, 
+      Trained operations team, 
+      Collaborated with international team to integrate solution.
+  - project:
+    period: 02/2001 - 04/2001
+    duration: 3 months
+    clientType: GSM TELCOs
+    codename: GPRS Roaming Backbone
+    description: |
+      Provide a General Packet Radio Service (GPRS) roaming back bone and application hosting facilities for GPRS Global System for Mobile Communications (GSM) telecommunication companies.
+    role: IT Architect Network and Security
+    contributions: |
+      Initial network design work, 
+      Initial project estimations.
+  - project:
+    period: 10/2000 - 12/2002
+    duration: 27 months
+    clientType: IBM Web Hosting
+    codename: IBM e-business Hosting Services
+    role: IT Architect
+    description: | 
+      E-business Hosting Services is an IBM web hosting business unit. 
+      The project encompassed the ongoing support and build phases of the hosting centres in Germany.
+    contributions: | 
+      IT Architect - 
+        Evaluate and integrate new techologies,
+        Assist infrastructure support activities,
+        Work with support team 
+        (Tivoli, network and security specialists), 
+        Support network build of new DC hosting facility, 
+        Design and implement monitoring solution, 
+        Support network security team. 
+      Tools used in the USF - 
+        Tivoli systems management environments, 
+        Netview, 
+        Xylan and Cisco switches, 
+        AIX and NOKIA based CheckPoint FireWall-1 systems.
+  - project:
+    period: 08/1998 - 12/1998
+    duration: 5 months
+    role: Senior systems Engineer
+    clientType: Readymix
+    codename: Cement
+    description: |
+      Improve the performance of the AIX based IT including IBM SP2, SSA disk systems, HACMP clusters, DB2 and SAP applications.
+    contributions: | 
+      I analysed all the production and test HACMP clusters, the ATM network connexions, the SSA Disk subsystems, and the overall AIX based sever environment. 
+      I improved the stability of production clusters, SSA disk subsystems and standalone servers through automation of routine tasks and recognition of pre-failure indications. 
+      The network connexions and routing was also modified to improve the bandwidth available to the SAP systems.
+  - project:
+    period: 12/1997 - 04/2000
+    duration: 29 months
+    clientType: SYSDAT Consulting
+    codeName: Firewall Dept.
+    role: Senior Systems Engineer
+    description: |
+      Create firewall selling and design capabilities within the company. 
+      Provide security expertise to customers. 
+      Improve the companies own internal network security and provide secure access to the Internet and partners.
+    contributions: |
+      Created the Firewall dept.<br/> Designed and built the company Internet and Extranet connectivity.<br/> Designed the company Intranet proxy systems.<br/> Provided customers with security expertise.<br/> Designed and built numerous, multi tier, corporate firewall systems for banks, retail industry, manufacturing industry, and utility companies (based on Cisco, IBM, and Microsoft products).<br/> Designed companies Extranet connectivity.<br/> Designed anti virus solutions and so on.
+  - project:
+    period: 04/1997 - 12/1997
+    duration: 9 months
+    clientType: Deutsche Bank
+    codeName: GroGa
+    role: System Engineer
+    description: |
+      Move 200+ stock trader workstations and the complete stock trader data center to a new location. 
+      Move was in parallel with live operations.
+    contributions: |
+      Created automated remote AIX installation scripts to perform activities including root disk mirroring, 
+      monitoring of HACMP and Highly Available Network File Systems (HANFS) disk partition integrity, 
+      automation testing,
+      HA testing,  
+      and application testing.
+      I wrote a web based problem ticket system for the team (>30 people).
+      Assisted in the development of the configuration Graphical User Interface (CMDB) and software which was used to provision servers and workstations.
+
+#ignored section
+coursesAndCerts:
+  certifications:
+    - date: 2006-07-25 
+      title: ISC^2 CISSP
+    - date: 2004-11-09 
+      title: ITIL Foundation Cert. in IT Service Management
+    - date: 2000-07-01 
+      title: IBM Certificate of Proficiency for AIX V4.2 Installation and System Recovery 
+    - date: 2000-07-01 
+      title: IBM Certified Specialist Web Server for RS/6000
+    - date: 2000-07-01 
+      title: IBM Certified Advanced Technical Expert RS/6000 AIX V4
+    - date: 2000-06-24 
+      title: Tivoli Certified Consultant TME 10 Network Management
+    - date: 2000-06-24 
+      title: IBM Certification for SecureWay Firewall for AIX
+    - date: 1999-07-22 
+      title: IBM Certified Specialist HACMP for AIX
+    - date: 1999-07-22 
+      title: IBM Certificate of Proficiency for AIX V4.2 Communications
+    - date: 1999-01-18 
+      title: IBM Certified Solutions Expert Firewall for AIX
+    - date: 1999-01-18 
+      title: IBM Certified User AIX V4
+    - date: 1996-12-31 
+      title: IBM Certified Specialist AIX V4.1 Support
+    - date: 1996-12-31 
+      title: IBM Certified Specialist AIX V4.1 System Administration
+  training: 
+    - date: 2007-07-03 
+      title: ITSO Linux Performance and Tuning Workshop ITS771DE
+    - date: 2006-12-05 
+      title: Risk Management PM55G
+    - date: 2006-10-04 
+      title: Leadership in a Project Team Environment PM11G 
+    - date: 2006-12-06 
+      title: Konstruktiv mit Konflikten umgehen 33K50DE 
+    - date: 2005-07-11 
+      title: IBM Unified Method Framework for TI Professionals TIWSBX 
+    - date: 2004-11-05 
+      title: Client Consulting for IT Architects 
+    - date: 2004-11-17 
+      title: Project Management Fundamentals 
+    - date: 2003-05-05 
+      title: Method for Architecting a Secure Solution 
+    - date: 2003-07-07 
+      title: IGSMethod Architectural Thinking 
+    - date: 2003-09-16 
+      title: IGSMethod Practical Use Case Modeling 
+    - date: 2003-05-06 
+      title: Foundation of the IT Architect Profession 
+    - date: 2003-07-02 
+      title: IBM Tivoli Risk Manager 4.2 ESP Workshop

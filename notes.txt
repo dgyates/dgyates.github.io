@@ -1,0 +1,18 @@
+Austrian bundesbahn security consulting re policy and international standards for network segregation.
+
+Projects:
+Title: TSB. 
+Title: tollcollect RFP
+
+Tasks:
+leading external resources in projects (firewall looking glass, DC tooling)
+
+
+resposibility to others
+
+insight
+
+recognizing costly mistakes before they are e3xecuted to the full by asking the right questions.
+
+Often this leads to my becoming a thought leader and taking up the enabler role.
+

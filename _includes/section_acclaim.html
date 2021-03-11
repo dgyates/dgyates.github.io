@@ -1,0 +1,12 @@
+{% if site.acclaim %}
+	<div id="introBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1 id="user-intro">Badges (<a href="{{site.acclaim.profileurl}}" target="_blank">View profile</a>)</h1>
+		</div>
+		<div class="content-rounded-panel-c">
+			{% for badge in site.acclaim.badges %}
+				<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="{{badge.badgeId}}" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+			{% endfor %}
+		</div>
+	</div>
+{% endif %}

@@ -437,6 +437,22 @@ projects:
       Created architecture templates and working examples,<br/> 
       Performed as lead network architect in engagements.
   - project:
+    period: 05/2019 - 03/2020
+    duration: 10 months
+    clientType: IBM infrastructure
+    codename: DC modernization
+    description: |
+      Develop and document procedures to renovate a live DC structured cabling infrastructure.
+    role: Lead IT Architect
+    contributions: |
+      Performed initial semi-automated data analysis, </br>
+      created cabling analysis tooling and graph DB to import overlapping data with additional temporal shift problems, </br>
+      performed data analysis, </br>
+      created documentation of cabling infrastructure (>400k ports and >21000km), </br>
+      created architectural documents and design decisions for live re-cabling and vendor/technology selection, </br>
+      created feedback loop for data quality improvement out of automated error detection in graph db, </br>
+      assisted the initial PoC installations.
+  - project:
     period: 01/2011 - 06/2013
     duration: 30 months
     clientType: IBM infrastructure

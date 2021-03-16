@@ -437,6 +437,26 @@ projects:
       Created architecture templates and working examples,<br/> 
       Performed as lead network architect in engagements.
   - project:
+    period: 06/2014 - 09/2015
+    duration: 16 months
+    clientType: Financial Auditors
+    codename: Mercury
+    descriptio: |
+      Develop a private DC network solution for the client, </br>
+      dual site and disaster recovery, </br>
+      additional high availability, </br>
+      WAN and cloud connectivity, </br>
+      security zoning and firewall/IDS design, </br>
+      Data center LAN and virtual server connectivity.
+    role: Lead Infrastructure Architect
+    contributions: |
+      Created a HA and DR DC design, </br>
+      workshops with the client, </br>
+      presentations to the c suite, </br>
+      led the implementation, </br>
+      managed third party service integration, </br>
+      led the network migrations to the environment.
+  - project:
     period: 05/2019 - 03/2020
     duration: 10 months
     clientType: IBM infrastructure

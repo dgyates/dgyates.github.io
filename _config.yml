@@ -238,6 +238,7 @@ github:
   - donnels/donnels.github.io
   - donnels/vacuumpreamp
   - donnels/waveshareoled
+  - donnels/jupyter-aarch64
 #test acclaim section
 acclaim:
    profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53

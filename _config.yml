@@ -332,7 +332,7 @@ additionalinformation:
       I worked as a lead architect in the planning phase for IBM's migration to IPv6. 
       I also worked as an architect for some of the address space planning for the IBM Global Shared Network Infrastructure. 
       In addition I also drove the planning for the IPv6 single and dual stack for the CMS cloud Infrastructure, 
-      which was no implemented and instead has flowed into other internal infrastructure architectures.
+      which was not implemented and instead has flowed into other internal infrastructure architectures.
   - title: Development Control 
     text: |
       I have a good knowledge of application life-cycle management and have worked primarily with Git and Travis. 
@@ -415,7 +415,7 @@ projects:
       Projects included Network, Cloud, virtualization, and DC builds.
       Industrries included financial, internal, and a mixture of all IBM clients due to DC and cloud activities.
     contributions: It Architect, Lead It Architect, Specialist (pen tests)
-    - project:
+  - project:
     period: 05/2019 - 03/2020
     duration: 10 months
     clientType: IBM infrastructure
@@ -465,7 +465,7 @@ projects:
       Provide gorvernance to IMT teams.
     role: IT Architect
     contributions: 
-      Active participation in the global GSNI ARB, NS-ACB, ant other boards,<br/> 
+      Active participation in the global GSNI ARB, NS-ACB, and other boards,<br/> 
       Led device certifications for cloud infrastructure,<br/> 
       Led the Pureflex technical network taskforce,<br/> 
       Authored strategy papers,<br/> 

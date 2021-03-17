@@ -5,7 +5,7 @@ services:
 
 env:
     global:
-        - REPO_html2x="donnellans/html2x" Dir_html2x="${TRAVIS_BUILD_DIR}/html2pdf" CONTAINER_html2x="test"
+        - REPO_html2x="donnellans/html2x" Dir_html2x="${TRAVIS_BUILD_DIR}/html2x" CONTAINER_html2x="test"
         - REPO_logo="donnellans/logo" Dir_logo="${TRAVIS_BUILD_DIR}/logo" CONTAINER_logo="test"
 
 before_install:

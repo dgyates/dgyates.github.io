@@ -1,4 +1,4 @@
-[![Github Actions][github badge]][github]
+[![Build Status](https://travis-ci.com/github/donnels/donnels.github.io?branch=master)](https://travis-ci.com/github/donnels/donnels.github.io)
 # Sean Donnellan's CV
 A Jekyll based CV page
 
@@ -24,3 +24,5 @@ To make the GitHub hosted CV:
 3. Share the CV with the world!
 
 To test locally, install Ruby & Jekyll, clone the repository locally and run "jekyll serve" from the repo root directoy.
+OR
+Run a docker with Jekyll.

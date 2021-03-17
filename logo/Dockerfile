@@ -1,5 +1,5 @@
 FROM debian:stable-slim
-MAINTAINER Sean Donnellan <docker@donnellan.de>
+LABEL MAINTAINER Sean Donnellan <docker@donnellan.de>
 RUN apt-get update \
 	&& apt-get install -y --no-install-recommends \
 		openscad \

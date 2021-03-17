@@ -4,17 +4,22 @@ services:
     - docker
 
 env:
-    - REPO="donnellans/html2x" Dir-html2x="./html2pdf" CONTAINER="test"
+    - REPO-html2x="donnellans/html2x" Dir-html2x="./html2pdf" CONTAINER-html2x="test"
+    - REPO-logo="donnellans/logo" Dir-logo="./logo" CONTAINER-logo="test"
 
 before_install:
     - docker pull debian:stable-slim
-    - docker build -f "${Dir-html2x}/Dockerfile" -t $REPO ${Dir-html2x}
+    - docker build -f "${Dir-html2x}/Dockerfile" -t ${REPO-html2x} ${Dir-html2x}
+    - docker build -f "${Dir-logo}/Dockerfile" -t ${REPO-logo} ${Dir-logo}
 
 script:
-    - docker run --name "$CONTAINER" $REPO
+    - docker run --name "${CONTAINER-html2x}" ${REPO-html2x}
+    - docker run --name "${CONTAINER-logo}" ${REPO-logo}
 
 after_error:
-    - docker logs $CONTAINER
+    - docker logs ${CONTAINER-html2x}
+    - docker logs ${CONTAINER-logo}
 
 after_failure:
-    - docker logs $CONTAINER
+    - docker logs ${CONTAINER-html2x}
+    - docker logs ${CONTAINER-logo}

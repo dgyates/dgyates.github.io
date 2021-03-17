@@ -8,7 +8,7 @@ env:
 
 before_install:
     - docker pull debian:stable-slim
-    - docker build -f "${Dir-html2x}/Dockerfile" -t $REPO ${Dir}
+    - docker build -f "${Dir-html2x}/Dockerfile" -t $REPO ${Dir-html2x}
 
 script:
     - docker run --name "$CONTAINER" $REPO

@@ -4,23 +4,23 @@ services:
     - docker
 
 env:
-    - REPO-html2x="donnellans/html2x" Dir-html2x="./html2pdf" CONTAINER-html2x="test"
-    - REPO-logo="donnellans/logo" Dir-logo="./logo" CONTAINER-logo="test"
+    - REPO_html2x="donnellans/html2x" Dir_html2x="${TRAVIS_BUILD_DIR}/html2pdf" CONTAINER_html2x="test"
+    - REPO_logo="donnellans/logo" Dir_logo="${TRAVIS_BUILD_DIR}/logo" CONTAINER_logo="test"
 
 before_install:
     - docker pull debian:stable-slim
-    - docker build -f "${Dir-html2x}/Dockerfile" -t ${REPO-html2x} ${Dir-html2x}
-    - docker build -f "${Dir-logo}/Dockerfile" -t ${REPO-logo} ${Dir-logo}
+    - docker build -f "${Dir_html2x}/Dockerfile" -t ${REPO_html2x} ${Dir_html2x}
+    - docker build -f "${Dir_logo}/Dockerfile" -t ${REPO_logo} ${Dir_logo}
 
 script:
-    - docker run --name "${CONTAINER-html2x}" ${REPO-html2x}
-    - docker run --name "${CONTAINER-logo}" -v"${Dir-logo}":/data ${REPO-logo} openscad -o test.png --imgsize=1220,1080 /data/include-Module-IBMlogo3D.scad 
+    - docker run --name "${CONTAINER_html2x}" ${REPO_html2x}
+    - docker run --name "${CONTAINER_logo}" -v"${Dir_logo}":/data ${REPO_logo} openscad -o test.png --imgsize=1220,1080 /data/include-Module-IBMlogo3D.scad 
 
 
 after_error:
-    - docker logs ${CONTAINER-html2x}
-    - docker logs ${CONTAINER-logo}
+    - docker logs ${CONTAINER_html2x}
+    - docker logs ${CONTAINER_logo}
 
 after_failure:
-    - docker logs ${CONTAINER-html2x}
-    - docker logs ${CONTAINER-logo}
+    - docker logs ${CONTAINER_html2x}
+    - docker logs ${CONTAINER_logo}

@@ -4,11 +4,11 @@ services:
     - docker
 
 env:
-    - REPO="donnellans/html2x" CONTAINER="test"
+    - REPO="donnellans/html2x" Dir-html2x="./html2pdf" CONTAINER="test"
 
 before_install:
     - docker pull debian:stable-slim
-    - docker build -t $REPO .
+    - docker build -f "${Dir-html2x}/Dockerfile" -t $REPO ${Dir}
 
 script:
     - docker run --name "$CONTAINER" $REPO

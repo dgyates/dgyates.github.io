@@ -1,3 +1,4 @@
+[![Github Actions][github badge]][github]
 # Sean Donnellan's CV
 A Jekyll based CV page
 

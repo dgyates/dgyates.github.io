@@ -4,4 +4,4 @@
 
 inputURL="$1"
 
-wget -mkx -l 10 -e --span-hosts robots=off $inputURL
+wget -mkx -l 10  --span-hosts -e robots=off $inputURL

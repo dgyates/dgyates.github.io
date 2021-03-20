@@ -4,7 +4,8 @@
 
 FROM debian:stable-slim
 
-RUN apt-get update \
+RUN mkdir /data \
+    && apt-get update \
     && apt-get install -y --no-install-recommends \
         bash \
         wget curl lynx phantomjs ca-certificates \

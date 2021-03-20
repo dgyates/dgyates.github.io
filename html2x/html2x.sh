@@ -3,6 +3,7 @@
 #call scriptname.sh URL indexfilename
 fileName="$1"
 fileNamePrefix=$(echo "$fileName"|cut -d"." -f1)
+fileNamePrefix=outfile
 
 echo "making $fileName into $fileNamePrefix.doc"
 pandoc $fileName -t docx -o /data/$fileNamePrefix.doc

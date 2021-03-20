@@ -496,7 +496,13 @@ projects:
       In general provide Dynamic on premise DC Infrastructure for client. 
     role: Lead Network Architect
     contributions: |
-      \rdblquote IT-Architect\rdblquote :<br/> Planned customer server migrations,<br/> Created architecture documents,<br/> Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> Managed and coordinated customer migrations,<br/> Managed and coordinated infrastructure migrations,<br/> Co-ordinated 3rd parties and suppliers,<br/> Provided last level support during migration phases.
+      Planned customer server migrations,<br/> 
+      Created architecture documents,<br/> 
+      Reviewed Network Service Delivery provided architectural documents (ARC 317),<br/> 
+      Managed and coordinated customer migrations,<br/> 
+      Managed and coordinated infrastructure migrations,<br/> 
+      Co-ordinated 3rd parties and suppliers,<br/> 
+      Provided last level support during migration phases.
   - project:
     period: 02/2009 - 01/2011
     duration: 24 months

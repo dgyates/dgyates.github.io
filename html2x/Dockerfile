@@ -7,12 +7,14 @@ FROM debian:stable-slim
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
         bash \
-        wget curl lynx ca-certificates \
+        wget curl lynx phantomjs ca-certificates \
         pandoc \
-        texlive texlive-base lmodern
+        texlive texlive-base lmodern \
+        python3 python3-pip python3-setuptools \
+        netbase aptitude 
 
 WORKDIR /opt/app
 COPY html2x.sh .
-COPY get.sh . 
 
 ENTRYPOINT [ "/bin/bash" ]
+CMD ["/opt/app/html2x.sh" , "https://donnels.github.io"]

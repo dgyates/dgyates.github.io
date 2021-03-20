@@ -8,10 +8,8 @@ RUN mkdir /data \
     && apt-get update \
     && apt-get install -y --no-install-recommends \
         bash \
-        wget curl lynx phantomjs ca-certificates \
-        pandoc \
+        wget curl wkhtmltopdf phantomjs xvfb xauth ca-certificates pandoc \
         texlive texlive-base lmodern \
-        python3 python3-pip python3-setuptools \
         netbase aptitude 
 
 WORKDIR /opt/app

@@ -15,7 +15,7 @@ before_install:
 
 script:
     - docker run --name "${CONTAINER_html2x}" ${REPO_html2x}
-    - docker run --name "${CONTAINER_logo}" -v"${Dir_logo}":/data ${REPO_logo} openscad -o test.png --imgsize=1220,1080 /data/include-Module-IBMlogo3D.scad 
+    - docker run --name "${CONTAINER_logo}" -v"${Dir_logo}":/data ${REPO_logo} 
 
 
 after_error:

@@ -424,3 +424,12 @@ td.loginRow {
 .github-box {
 	margin-top: 15px;
 }
+/* for chromium headless print-to-pdf */
+@media print {
+	@page {margon: 0mm 0mm 0mm 0mm;
+	size:210mm 297mm;
+	} 
+	a[href]:after {
+	  content: none !important;
+	}
+  }

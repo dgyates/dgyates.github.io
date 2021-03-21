@@ -10,7 +10,7 @@ chromium \
 #     --headless \
 #     --disable-gpu \
 #     --disable-extensions \
-#v    --run-all-compositor-stages-before-draw \
+#     --run-all-compositor-stages-before-draw \
 #     --use-gl=swiftshader \
 #     --remote-debugging-port=8888 \
 #     https://donnels.github.io

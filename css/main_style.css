@@ -434,7 +434,7 @@ td.loginRow {
 	} 
 	h1 {
 		/* h1 elements always start on the top of a new page. */
-		page-break-before: always !important;
+		/*page-break-before: always !important;*/
 		font-size:20px !important;
 		color:#0035aa !important;
 		font-family:times !important;

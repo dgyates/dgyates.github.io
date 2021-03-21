@@ -432,7 +432,7 @@ td.loginRow {
 	a[href]:after {
 	  content: none !important;
 	}
-	p.bodyText {font-family:georgia, times, serif; }
+	p.bodyText {font-family:times !important }
 	p.bodyText {font-size:8pt !important}
 	a:link {color: #000099 !important}
   }

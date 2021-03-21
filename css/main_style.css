@@ -437,6 +437,7 @@ td.loginRow {
 		page-break-before: always !important;
 		font-size:14px !important;
 		color:#0035aa !important;
+		font-family:times !important;
 		font-weight:bold !important;
 		margin:1px 0 !important;
 	}

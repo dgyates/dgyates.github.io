@@ -432,6 +432,13 @@ td.loginRow {
 	@page {margin: 10mm 10mm 10mm 10mm;
 		size:210mm 297mm;
 	} 
+	h1 {
+		/* h1 elements always start on the top of a new page. */
+		page-break-before: always !important;
+	}
+	h2 {
+		page-break-before: always !important; 
+	}
 
 	p.bodyText {font-family:times !important }
 	p.bodyText {font-size:8pt !important}
@@ -439,5 +446,5 @@ td.loginRow {
 	a:link {color: #000099 !important}
 	a[href]:after {
 		content: none !important;
-	}  
+	}
 }

@@ -426,7 +426,7 @@ td.loginRow {
 }
 /* for chromium headless print-to-pdf */
 @media print {
-	@page {margon: 0mm 0mm 0mm 0mm;
+	@page {margin: 0mm 0mm 0mm 0mm;
 	size:210mm 297mm;
 	} 
 	a[href]:after {

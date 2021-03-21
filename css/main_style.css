@@ -432,4 +432,5 @@ td.loginRow {
 	a[href]:after {
 	  content: none !important;
 	}
+	p.bodyText {font-family:georgia, times, serif;}
   }

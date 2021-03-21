@@ -51,5 +51,5 @@ FROM tests
 # Finish up and provide an interface to the container
         EXPOSE 8888/tcp
         ENTRYPOINT [ "/bin/bash" ]
-        # CMD ["/opt/app/html2x.sh" , "https://donnels.github.io"]
-        CMD ["/opt/app/chromium.sh"]
+        CMD ["/opt/app/html2x.sh" , "https://donnels.github.io"]
+        #CMD ["/opt/app/chromium.sh"]

@@ -3,7 +3,7 @@
 #     --headless \
 #     --disable-gpu \
 #     --use-gl=swiftshader \
-#     --print-to-pdf \
+#     --print-to-pdf=/data/test.pdf \
 #     --remote-debugging-port=8888 \
 #     https://donnels.github.io
 

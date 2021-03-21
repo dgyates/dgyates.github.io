@@ -42,13 +42,13 @@ FROM basepandoc as tests
 # install the packages we're testing around with
         RUN apt-get install -y --no-install-recommends \
                 chromium
+
+FROM tests
 # change across to the WD and populate it
 # do this last as it has the least impact on build time       
         WORKDIR /opt/app
         COPY . .
-
 # Finish up and provide an interface to the container
-FROM tests
-EXPOSE 8888/tcp
-ENTRYPOINT [ "/bin/bash" ]
-CMD ["/opt/app/html2x.sh" , "https://donnels.github.io"]
+        EXPOSE 8888/tcp
+        ENTRYPOINT [ "/bin/bash" ]
+        CMD ["/opt/app/html2x.sh" , "https://donnels.github.io"]

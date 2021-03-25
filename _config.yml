@@ -488,7 +488,7 @@ projects:
   - project:
     period: 07/2009 - 12/2009
     duration: 6 months
-    clientType: retail
+    clientType: Retail
     codename: Data Center Build Planet
     description: |
       Develop, document and deploy secure, available, 

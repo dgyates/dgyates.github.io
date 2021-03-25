@@ -690,7 +690,7 @@ projects:
   - project:
     period: 01/2003 - 05/2003
     duration: 5 months
-    clientTypz: Large Bank
+    clientType: Large Bank
     codename: Symphony
     description: |
       Answer Request for Proposal (RFP) from customer.

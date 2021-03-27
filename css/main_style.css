@@ -229,6 +229,13 @@ h2 {
 	margin:1px 0;
 }
 
+h3 {
+	font-size:12px;
+	color:#0035aa;
+	font-weight:bold;
+	margin:1px 0;
+}
+
 .nerdScoreHeader{
 	font-size:75px;
 	text-align:center;

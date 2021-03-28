@@ -6,7 +6,8 @@
 		<div class="content-rounded-panel">
 			{% for info in site.additionalinformation %}
 				<div id="infoBlurb">
-					<strong>{{info.title}}: </strong>{{info.text}}
+					<h2>{{info.title}}: </h2>
+					{{info.text}}
 				</div>
 				</br>					
 			{% endfor %}

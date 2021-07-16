@@ -13,7 +13,6 @@ images:
     - ./img/ibmlogo.png
     - ./img/ibm-qr.png
 
-
 #comment out this line when ready (no longer draft)
 status: 
   overall: --- Draft ---
@@ -23,7 +22,6 @@ status:
     - GitHub - need to add content
     - Projects - contents 75%
     - additional info - content max 60%
-
 
 #Links that will appear in the navbar
 primarylinks:
@@ -240,6 +238,7 @@ github:
   - donnels/vacuumpreamp
   - donnels/waveshareoled
   - donnels/jupyter-aarch64
+
 #test acclaim section
 acclaim:
    profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53

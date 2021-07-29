@@ -36,9 +36,9 @@ primarylinks:
 
 # Introduction section
 intro: |
-  I am an Open Group, Microsoft, and IBM certified data scientist with 9 years of experience. Interested in
-opportunities to leverage the latest technologies, coupled with sound statistical modeling techniques, to
-bring insight to business problems with the power of data. My focus is Python-based machine learning.
+  I am an Open Group, Microsoft, and IBM certified data scientist with 9 years of experience. <br/>
+  Interested in opportunities to leverage the latest technologies, coupled with sound statistical modeling techniques, <br/>
+  to bring insight to business problems with the power of data. My focus is Python-based machine learning.
  
 #Buzzword Languages
 languages:

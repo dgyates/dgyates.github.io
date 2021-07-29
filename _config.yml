@@ -1,7 +1,7 @@
 # Site settings
-title: Sean Donnellan
-twitter_username: donnellan_sean
-name: Sean Donnellan
+title: Daniel Yates, Senior Technical Staff Member | Principal Data Scientist
+twitter_username: 
+name: Daniel Yates
 
 # Build settings
 markdown: kramdown
@@ -26,140 +26,55 @@ status:
 #Links that will appear in the navbar
 primarylinks:
   - title: GitHub
-    url: https://github.com/donnels
+    url: https://github.com/dgyates
   - title: LinkedIn
-    url: https://de.linkedin.com/in/sean-donnellan-03601b4a
-  - title: Acclaim
-    url: https://www.youracclaim.com/users/sean-donnellan.faa56e53
+    url: https://www.linkedin.com/in/danielgyates/
+  - title: Credly
+    url: https://www.credly.com/users/daniel-yates.cba02c14
   - title: Research and publications
-    url: https://www.researchgate.net/profile/Sean_Donnellan3/research
+    url: https://scholar.google.com/citations?user=63JEKhwAAAAJ&hl=en
 
 # Introduction section
 intro: |
-  I am an IT architect with 25+ years experience and passion working in technology. 
-  I have primarily had the responsibility of working as an IT infrastructure architect and have also led teams and managed projects.
-  I have worked across a broad range of technologies 
-  thereon: Cisco, ACI, Juniper, AIX, Linux, Ansible, DC infrastructure, and most recently NEO4J and data science.
-  As well as spending a reasonable amount of time building Cloud Network Infrastructure. I am a principal and voting member of the IBM Global Shared Network Inrastructure architecture governance board.
-  <br/><br/>
-  I have had lead roles in large scale data center migration, management, 
-  and governance roles across Europe and globally.
-  <br/><br/>
-  I have worked in the IT industry since 1995. 
-  I started as a specialist for UNIX and networking. 
-  I quickly moved on to parallel computing, enterprise firewall design, and automation, as an architect and consultant. 
-  Initially working for an IBM business partner I was involved in both large and small projects across a wide spectrum. 
-  Activities included planning and providing training to customers, architecture, consulting, delivery of architectures, automation, team lead, and last level support for more complex problems. 
-  Notable achievements are over 5 Extranet firewalls for large corporations and SMB aswell as automated HA solutions before 2000.
-  <br/><br/>
-  In 2000 I left the business partner to start up my own consulting company. 
-  During which time I developed and used a documentation system which fully integrated changes made in the customer environment into versioned documents. 
-  Other achievments during this time are customer aquisition and numerous small projects such as highly available DHCP infrastructures or Intranet firewalls.
-  <br/><br/>
-  In late 2000 I decided to start working for IBM in the official job role of an IT Architect.
-  I have since used the possibilities I was given to expand my knowledge and my network and to become one of the go to people for 
-  infrastucture related questions within IBM globally. 
-  I have driven data centre design, network design, security design, Virtualization design, and systems management. 
-  Amongst other things I have worked with international teams to further Linux on z, data centre design, firewall design, virtualization, and IDS design. 
-  I have lead teams, managed projects and supervised implementations across a wide range of projects and technical platforms as well as taking the occasional deep dive into topics like penetration testing or data analysis.
-  </br>
-  My wants - </br>
-  - work with a young team</br>
-  - work in an innovative environment</br>
-  - pass experience on </br>
-  - simple processes </br>
-  - work efficiently and sustainably. </br>
+  I am an Open Group, Microsoft, and IBM certified data scientist with 9 years of experience. Interested in
+opportunities to leverage the latest technologies, coupled with sound statistical modeling techniques, to
+bring insight to business problems with the power of data. My focus is Python-based machine learning.
  
 #Buzzword Languages
 languages:
-  - Bilingual
   - English
-  - German
 
 #Buzzword skills
 skills:
- - IT Architect
- - IT Network Architect
- - IT Security Architect
- - IT Infrastructure Architect
- - Innovation
- - New Technologies
- - Analytical thinking
- - Deep technological understanding
- - Cross technology thinking
- - Teaching
- - Wild duck
- - Mentoring
- - Guidance
- - Governance
- - Trusted advisor
- - Network segregation
- - Weakness analysis
- - Threat mitigation
- - Data Center Architecture
- - security governance
- - security policy
- - automated documentation
- - CISSP
- - AIX Advanced Technical Expert
- - Linux
- - FOSS
- - NEO4J
- - NEO4J Certified
- - MQTT
- - IOT
- - Juniper
- - Jupyter
- - Cisco
- - IBM Cloud
- - IBM
- - travis
- - docker
- - Mentor
- - Teacher
- - Project management
- - Team lead
- - python
- - shell scripting
- - docker compose
- - openscad
- - git
- - UML
- - CI/CD
- - Raspberry Pi
- - ESP8266/ESP32
- - Arduino
- - IPv6
- - IPv4
- - penetration testing
- - slack
- - agile
- - ansible
- - Cloud Computing
- - Risk Management
- - Data Center Relocation
- - Virtualization
- - Network Security
- - Virtual Teams
- - Data Center
- - IT Service Management
+ - Data Analysis
+ - Machine Learning
+ - Data Science
+ - Leadership
+ - Six Sigma
+ - Intelligence Analysis
  - ITIL
- - IT Management
- - Disaster Recovery
- - Patents
- - Solution Architecture
- - Enterprise Architecture
- - High Availability
- - Storage Area Networks
- - VMware 
- - Firewalls
- - 3D printing (FDM)
- - Laser cutting
+ - Agile
+ - Python3
+ - Pandas
+ - Scikit-learn
+ - Matplotlib
+ - Seaborn
+ - SPSS Modeler
+ - SPSS Text Analytics
+ - SQL
+ - Git
+ - Cognos BI
+ - Flask
+ - Visual Basic
+ - RESTful
+ - IBM Cloud
+ - AzureML
+ 
 
 #Employers and summary Work experience
 roles:
- - title: IT infrastructure architect
-   start: 2000
+ - title: Senior Technical Staff Member (STSM) & Principal Data Scientist
+   start: 2019
    end: Ongoing
    employer: IBM
    description: |

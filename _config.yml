@@ -153,14 +153,14 @@ github:
 
 #test acclaim section
 acclaim:
-   profileurl: https://www.credly.com/users/daniel-yates.cba02c14
+   profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
    badges:
-   - title: Microsoft Certified: Azure Data Scientist Associate
-     badgeId: cfc9b380-b045-4361-b1ce-5db414c294c6
-     issuedBy: Microsoft
-   - title: Professional Certification: Level 2 - Master Certified Data Scientist
-     badgeId: 7807a731-d6b5-41eb-b323-dfef609aa484
-     issuedBy: The Open Group
+    - title: CISSP
+      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
+      issuedBy: ISC2
+    - title: Design thinking
+      badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
+      issuedBy: IBM
 
 #new additional info section with headers
 additionalinformation:

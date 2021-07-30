@@ -149,84 +149,15 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
-  - donnels/donnels.github.io
-  - donnels/vacuumpreamp
-  - donnels/waveshareoled
-  - donnels/jupyter-aarch64
+  - dgyates/dgyates.github.io
 
 #test acclaim section
 acclaim:
-   profileurl: https://www.youracclaim.com/users/sean-donnellan.faa56e53
+   profileurl: https://www.credly.com/users/daniel-yates.cba02c14
    badges:
-    - title: CISSP
-      badgeId: 90bf777f-d7dc-430e-91a0-b61a4b92e910
-      issuedBy: ISC2
-    - title: Design thinking
-      badgeId: 0e291753-a126-49bb-b674-d839ec78ddf5
-      issuedBy: IBM
-    - title: open source contrib
-      badgeId: 98366233-e331-4eb1-a9bc-f5b8baef4cbf
-      issuedBy: IBM
-    - title: open source committer
-      badgeId: b414d87d-85c2-4e79-8163-863494a71b2f
-      issuedBy: IBM
-    - title: na
-      badgeId: 2db8b10a-be11-48ea-82ae-2a84b441e63a
-      issuedBy: na
-    - title: na
-      badgeId: 804154e3-ecf2-441b-959f-487553975b0a
-      issuedBy: na
-    - title: na
-      badgeId: 093081a4-03a0-414d-ba99-7c760b5d522a
-      issuedBy: na
-    - title: na
-      badgeId: 34ba89a3-4824-41dd-8133-35aea4119714
-      issuedBy: na
-    - title: na
-      badgeId: 24a9a8e3-12ce-4d12-8480-f0536077a033
-      issuedBy: na
-    - title: na
-      badgeId: 0552e76a-e34d-4af3-b8a8-d16486bebad5
-      issuedBy: na
-    - title: na
-      badgeId: 8f0e3f96-07c9-4e46-aca1-d57d5fdecbb2
-      issuedBy: na
-    - title: na
-      badgeId: 45421933-b8d3-47aa-90ef-171cacdfbb9f
-      issuedBy: na
-    - title: na
-      badgeId: ed1628c5-4f68-4e87-8eb7-4faaa67e7be5
-      issuedBy: na
-    - title: na
-      badgeId: 23f12439-9421-499a-8db5-3e77a56916cd
-      issuedBy: na
-    - title: na
-      badgeId: 53a11686-0191-4d6b-97a2-f6f162ae4792
-      issuedBy: na
-    - title: na
-      badgeId: 3407f901-8e09-47c3-afe4-25f6ad5e278f
-      issuedBy: na
-    - title: na
-      badgeId: d49b429f-ac7a-42c7-99e1-8f04ec3c590e
-      issuedBy: na
-    - title: na
-      badgeId: 2379495f-dfcc-4617-802f-3743c161910e
-      issuedBy: na
-    - title: na
-      badgeId: 9641d549-4c8b-4cc6-a585-cfef3ad347a6
-      issuedBy: na
-    - title: na
-      badgeId: d7db0e2a-670a-4ce7-bcda-3b68eacf31b3
-      issuedBy: na
-    - title: na
-      badgeId: 8453e0d3-b9ae-4156-81bd-bb37308266b2
-      issuedBy: na
-    - title: na
-      badgeId: 37215f2d-4209-44fc-ac1f-74d7a3f82b15
-      issuedBy: na
-    - title: na
-      badgeId: 6b987988-3e18-45d3-8349-b1543d197678
-      issuedBy: na
+    - title: Microsoft Certified: Azure Data Scientist Associate
+      badgeId: cfc9b380-b045-4361-b1ce-5db414c294c6
+      issuedBy: Microsoft
 
 #new additional info section with headers
 additionalinformation:

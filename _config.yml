@@ -158,6 +158,9 @@ acclaim:
     - title: Microsoft Certified: Azure Data Scientist Associate
       badgeId: cfc9b380-b045-4361-b1ce-5db414c294c6
       issuedBy: Microsoft
+    - title: Microsoft Certified: Azure Data Scientist Associate
+      badgeId: cfc9b380-b045-4361-b1ce-5db414c294c6
+      issuedBy: Microsoft
 
 #new additional info section with headers
 additionalinformation:

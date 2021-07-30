@@ -155,7 +155,7 @@ github:
 acclaim:
    profileurl: https://www.credly.com/users/daniel-yates.cba02c14
    badges:
-    - title: Microsoft Certified: Azure Data Scientist Associate
+    - title: Microsoft Certified Azure Data Scientist Associate
       badgeId: cfc9b380-b045-4361-b1ce-5db414c294c6
       issuedBy: Microsoft
     - title: Design thinking
